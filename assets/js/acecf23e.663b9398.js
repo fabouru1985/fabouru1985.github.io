@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkdocs_fintesk_com=self.webpackChunkdocs_fintesk_com||[]).push([[1903],{1912:s=>{s.exports=JSON.parse('{"blogBasePath":"/blog","blogTitle":"Blog","authorsListPath":"/blog/authors"}')}}]);
