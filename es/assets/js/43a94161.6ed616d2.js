@@ -15,7 +15,7 @@ __webpack_require__.d(__webpack_exports__, {
 });
 
 ;// CONCATENATED MODULE: ./.docusaurus/docusaurus-plugin-content-docs/default/site-i-18-n-es-docusaurus-plugin-content-docs-current-tos-terms-of-service-md-43a.json
-var site_i_18_n_es_docusaurus_plugin_content_docs_current_tos_terms_of_service_md_43a_namespaceObject = JSON.parse('{"id":"tos/terms-of-service","title":"Condiciones de servicio de Fintesk","description":"Última Actualización Agosto 20, 2023","source":"@site/i18n/es/docusaurus-plugin-content-docs/current/tos/terms-of-service.md","sourceDirName":"tos","slug":"/tos/terms-of-service","permalink":"/es/tos/terms-of-service","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"tos","permalink":"/es/tags/tos"}],"version":"current","lastUpdatedBy":"Fabrizzio Andrioli","lastUpdatedAt":1692489600000,"sidebarPosition":1,"frontMatter":{"id":"terms-of-service","title":"Condiciones de servicio de Fintesk","sidebar_position":1,"tags":["tos"],"last_update":{"date":"2023-08-20T00:00:00.000Z","author":"Fabrizzio Andrioli"}},"sidebar":"tutorialSidebar","previous":{"title":"Terms of Service","permalink":"/es/category/terms-of-service"}}')
+var site_i_18_n_es_docusaurus_plugin_content_docs_current_tos_terms_of_service_md_43a_namespaceObject = JSON.parse('{"id":"tos/terms-of-service","title":"Condiciones de servicio de Fintesk","description":"Última Actualización: 27-11-2025","source":"@site/i18n/es/docusaurus-plugin-content-docs/current/tos/terms-of-service.md","sourceDirName":"tos","slug":"/tos/terms-of-service","permalink":"/es/tos/terms-of-service","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"tos","permalink":"/es/tags/tos"}],"version":"current","lastUpdatedBy":"Fabrizzio Andrioli","lastUpdatedAt":1764201600000,"sidebarPosition":1,"frontMatter":{"id":"terms-of-service","title":"Condiciones de servicio de Fintesk","sidebar_position":1,"tags":["tos"],"last_update":{"date":"2025-11-27T00:00:00.000Z","author":"Fabrizzio Andrioli"}},"sidebar":"tutorialSidebar","previous":{"title":"Terms of Service","permalink":"/es/category/terms-of-service"}}')
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
 var jsx_runtime = __webpack_require__(74848);
 // EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
@@ -31,7 +31,7 @@ const frontMatter = {
 		'tos'
 	],
 	last_update: {
-		date: new Date('2023-08-20T00:00:00.000Z'),
+		date: new Date('2025-11-27T00:00:00.000Z'),
 		author: 'Fabrizzio Andrioli'
 	}
 };
@@ -44,8 +44,8 @@ const assets = {
 
 
 const toc = [{
-  "value": "<strong>Última Actualización Agosto 20, 2023</strong>",
-  "id": "última-actualización-agosto-20-2023",
+  "value": "<strong>Última Actualización: 27-11-2025</strong>",
+  "id": "última-actualización-27-11-2025",
   "level": 3
 }, {
   "value": "<strong>Condiciones de servicio de Fintesk</strong>",
@@ -80,8 +80,8 @@ const toc = [{
   "id": "33-credenciales",
   "level": 3
 }, {
-  "value": "<strong>3.4 Cambio de planes</strong>",
-  "id": "34-cambio-de-planes",
+  "value": "<strong>3.4 Cambio de suscripciones</strong>",
+  "id": "34-cambio-de-suscripciones",
   "level": 3
 }, {
   "value": "<strong>3.5 Gestión de la Cuenta del Cliente</strong>",
@@ -156,16 +156,28 @@ const toc = [{
   "id": "63-proveedores-de-servicios-de-pago",
   "level": 3
 }, {
-  "value": "<strong>6.4 Factura Electrónica</strong>",
-  "id": "64-factura-electrónica",
+  "value": "<strong>6.4 Proveedores de Servicios de Pago</strong>",
+  "id": "64-proveedores-de-servicios-de-pago",
   "level": 3
 }, {
-  "value": "<strong>6.5 Cargos por pagos atrasados</strong>",
-  "id": "65-cargos-por-pagos-atrasados",
+  "value": "<strong>6.5 Impuestos</strong>",
+  "id": "65-impuestos",
   "level": 3
 }, {
-  "value": "<strong>6.6 Derecho a compensación</strong>",
-  "id": "66-derecho-a-compensación",
+  "value": "<strong>6.6 Factura Electrónica</strong>",
+  "id": "66-factura-electrónica",
+  "level": 3
+}, {
+  "value": "<strong>6.7 Cargos por pagos atrasados</strong>",
+  "id": "67-cargos-por-pagos-atrasados",
+  "level": 3
+}, {
+  "value": "<strong>6.8 Derecho a compensación</strong>",
+  "id": "68-derecho-a-compensación",
+  "level": 3
+}, {
+  "value": "<strong>6.9 No Reembolso</strong>",
+  "id": "69-no-reembolso",
   "level": 3
 }, {
   "value": "<strong>7. DATOS DEL CLIENTE/INFORMACIÓN SENSIBLE</strong>",
@@ -208,12 +220,16 @@ const toc = [{
   "id": "91-derechos-de-propiedad-intelectual-de-fintesk",
   "level": 3
 }, {
-  "value": "<strong>9.2 Contenido</strong>",
-  "id": "92-contenido",
+  "value": "<strong>9.2 Derechos de Propiedad Intelectual del Cliente sobre sus Datos</strong>",
+  "id": "92-derechos-de-propiedad-intelectual-del-cliente-sobre-sus-datos",
   "level": 3
 }, {
-  "value": "<strong>9.3 Comentarios</strong>",
-  "id": "93-comentarios",
+  "value": "<strong>9.3 Comentarios (Feedback)</strong>",
+  "id": "93-comentarios-feedback",
+  "level": 3
+}, {
+  "value": "<strong>9.3 Derechos de Terceros</strong>",
+  "id": "93-derechos-de-terceros",
   "level": 3
 }, {
   "value": "<strong>10. EXENCIONES DE RESPONSABILIDAD; SIN GARANTÍA</strong>",
@@ -223,6 +239,14 @@ const toc = [{
   "value": "<strong>11. INDEMNIZACIÓN</strong>",
   "id": "11-indemnización",
   "level": 2
+}, {
+  "value": "11.1 Indemnización por el Cliente",
+  "id": "111-indemnización-por-el-cliente",
+  "level": 3
+}, {
+  "value": "11.2 Indemnización por Fintesk",
+  "id": "112-indemnización-por-fintesk",
+  "level": 3
 }, {
   "value": "<strong>12. LIMITACIÓN DE RESPONSABILIDAD</strong>",
   "id": "12-limitación-de-responsabilidad",
@@ -240,23 +264,31 @@ const toc = [{
   "id": "123-exclusión-de-daños-consecuentes-y-relacionados",
   "level": 3
 }, {
-  "value": "<strong>13. TERMINACIÓN/SUSPENSIÓN</strong>",
-  "id": "13-terminaciónsuspensión",
+  "value": "12.4 Aplicabilidad de las Limitaciones",
+  "id": "124-aplicabilidad-de-las-limitaciones",
+  "level": 3
+}, {
+  "value": "12.5 Reconocimiento de Asignación de Riesgo",
+  "id": "125-reconocimiento-de-asignación-de-riesgo",
+  "level": 3
+}, {
+  "value": "<strong>13. TERMINACIÓN / SUSPENSIÓN</strong>",
+  "id": "13-terminación--suspensión",
   "level": 2
 }, {
   "value": "<strong>13.1 Por conveniencia</strong>",
   "id": "131-por-conveniencia",
   "level": 3
 }, {
-  "value": "<strong>13.2 Por defecto</strong>",
-  "id": "132-por-defecto",
+  "value": "13.2 Por Incumplimiento",
+  "id": "132-por-incumplimiento",
   "level": 3
 }, {
-  "value": "<strong>13.3 Efecto de la rescisión</strong>",
-  "id": "133-efecto-de-la-rescisión",
-  "level": 2
+  "value": "13.3 Efecto de la Terminación",
+  "id": "133-efecto-de-la-terminación",
+  "level": 3
 }, {
-  "value": "<strong>13.4 Suspensión</strong>",
+  "value": "13.4 Suspensión",
   "id": "134-suspensión",
   "level": 3
 }, {
@@ -288,16 +320,24 @@ const toc = [{
   "id": "153-acuerdo-completo",
   "level": 3
 }, {
-  "value": "<strong>15.4 Cesión</strong>",
-  "id": "154-cesión",
+  "value": "<strong>15.4 Modificaciones</strong>",
+  "id": "154-modificaciones",
   "level": 3
 }, {
-  "value": "<strong>15.5 No renuncia</strong>",
-  "id": "155-no-renuncia",
+  "value": "<strong>15.5 Cesión</strong>",
+  "id": "155-cesión",
   "level": 3
 }, {
-  "value": "<strong>15.6 Avisos</strong>",
-  "id": "156-avisos",
+  "value": "<strong>15.6 No renuncia</strong>",
+  "id": "156-no-renuncia",
+  "level": 3
+}, {
+  "value": "<strong>15.7 Avisos</strong>",
+  "id": "157-avisos",
+  "level": 3
+}, {
+  "value": "<strong>15.7 Fuerza Mayor</strong>",
+  "id": "157-fuerza-mayor",
   "level": 3
 }];
 function _createMdxContent(props) {
@@ -315,9 +355,9 @@ function _createMdxContent(props) {
   };
   return (0,jsx_runtime.jsxs)(jsx_runtime.Fragment, {
     children: [(0,jsx_runtime.jsx)(_components.h3, {
-      id: "última-actualización-agosto-20-2023",
+      id: "última-actualización-27-11-2025",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "Última Actualización Agosto 20, 2023"
+        children: "Última Actualización: 27-11-2025"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "condiciones-de-servicio-de-fintesk",
@@ -355,7 +395,7 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Cuenta”"
-      }), " hace referencia al medio principal para acceder y utilizar los Servicios de Fintesk, sujeto al pago de una Tarifa designada en el Plan seleccionado."]
+      }), " hace referencia al medio principal para acceder y utilizar los Servicios de Fintesk, sujeto al pago de una Tarifa designada en la Suscripción seleccionada."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Administrador”"
@@ -375,7 +415,7 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Datos del Cliente”"
-      }), " se refiere a datos y documentos de cualquier tipo (imágenes, hojas de cálculo, archivos de texto, etc.) y cualquier otro dato e información digital, que esté sujeto a la Plataforma, o que el Cliente haya insertado de otro modo en la Plataforma y para el cual Fintesk es un “procesador” (como se define en el Aviso de Privacidad). Los Datos del Cliente no contendrán Información Sensible."]
+      }), " se refiere a datos y documentos de cualquier tipo (imágenes, hojas de cálculo, archivos de texto, etc.) y cualquier otro dato e información digital, que esté sujeto a la Plataforma, o que el Cliente haya insertado de otro modo en la Plataforma y para el cual Fintesk es un “procesador” (como se define en el Aviso de Privacidad). Los Datos del Cliente excluyen los Materiales de Fintesk. Se espera que los Datos del Cliente no contengan Información Sensible. El Cliente es el único responsable de asegurar que no se cargue Información Sensible a la Plataforma."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Contenido”"
@@ -390,16 +430,12 @@ function _createMdxContent(props) {
       }), " hace referencia a una función o conjunto de funciones que brindan una capacidad particular dentro de los Servicios de Fintesk según lo determinado por Fintesk y según lo rigen los Términos Complementarios aplicables."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
-        children: "“Tarifa”"
-      }), " se refiere al pago regular por usar los Servicios de Fintesk a través de una Cuenta activa."]
-    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
-      children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Comentarios o Feedback”"
       }), " hace referencia a cualquier comentario, informe de error, comentario, sugerencia o modificación de los Servicios de Fintesk que el Cliente o un Usuario proporciona a Fintesk."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Prueba gratuita”"
-      }), " hace referencia al acceso temporal con el fin de probar cualquier parte de los Servicios o Funciones de Fintesk de acuerdo con cualquier Plan seleccionado sin pagar una Tarifa."]
+      }), " hace referencia al acceso temporal con el fin de probar cualquier parte de los Servicios o Funciones de Fintesk de acuerdo con cualquier Suscripción seleccionada sin pagar una Tarifa."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Términos Maestros”"
@@ -411,23 +447,31 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Fintesk”"
-      }), " significa, según lo requiera el contexto, Fintesk SpA., LibroContable SpA o cualquier otra de sus Afiliadas."]
+      }), " significa, según lo requiera el contexto, LibroContable SpA o cualquier otra de sus Afiliadas."]
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.strong, {
+        children: "“Datos de Fintesk”"
+      }), " significa lo siguiente: (i) datos que Fintesk le proporciona en o a través de los Servicios de Fintesk, (ii) datos no identificables personalmente que resultan del uso de los Servicios de Fintesk por parte del Cliente y (iii) datos agregados o anonimizados creados por Fintesk según lo autorizado por estos Términos."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Materiales de Fintesk”"
-      }), " se refiere a las interfaces visuales, gráficos, diseño, sistemas, métodos, información, código de computadora, software, servicios, “apariencia”, organización, compilación del Contenido, código, datos y todos los demás elementos de Fintesk. Servicios."]
+      }), " se refiere a las interfaces visuales, gráficos, diseño, sistemas, métodos, información, código de computadora, software, servicios, “apariencia”, organización, compilación del Contenido, código, datos y todos los demás elementos de los Servicios de Fintesk, incluidos los Datos de Fintesk."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Servicios de Fintesk”"
       }), " hace referencia al Sitio web, el Contenido, los Materiales de Fintesk, la Plataforma y todos los demás contenidos, servicios y/o productos, y Funciones/Características, disponibles en la Plataforma o a través de ella."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
-        children: "“Plan”"
-      }), " se refiere a varios criterios relacionados con el uso, la funcionalidad y el costo de un Servicio de Fintesk en particular y en el que se basa la Tarifa."]
+        children: "“Suscripción”"
+      }), " se refiere a los derechos de uso y funcionalidad y tarifas asociadas, seleccionadas por el Cliente para cualquiera de los Servicios de Fintesk."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
-        children: "“Plazo del Plan”"
-      }), " hace referencia al período de uso de los Servicios de Fintesk por parte del Cliente que comienza en la fecha de pago de la Tarifa correspondiente al Plan asociado y finaliza en la fecha de vencimiento del Plan."]
+        children: "“Término de Suscripción”"
+      }), " hace referencia al período en el que se permite al Cliente utilizar los Servicios de Fintesk, que comienza en la fecha de compra de la Suscripción y finaliza en la fecha de vencimiento de la Suscripción. El Término de Suscripción incluye el Término de Suscripción inicial y todas las renovaciones sucesivas."]
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: [(0,jsx_runtime.jsx)(_components.strong, {
+        children: "“Tarifa de Suscripción”"
+      }), " se refiere a las tarifas regulares de suscripción y cualquier tarifa adicional adeudada por el uso de los Servicios de Fintesk."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Plataforma”"
@@ -437,20 +481,20 @@ function _createMdxContent(props) {
         children: "“Aviso de privacidad”"
       }), " hace referencia al aviso, tal como se establece en ", (0,jsx_runtime.jsx)(_components.a, {
         href: "../privacy",
-        children: "Aviso de privacidad"
+        children: "aviso de privacidad"
       }), ", que describe cómo Fintesk recopila, recibe, usa, almacena, comparte, transfiere y procesa los “Datos del Cliente” en relación a como el Cliente usa los Servicios de Fintesk. También describe las opciones del Cliente con respecto al uso, así como los derechos del Cliente de acceso y corrección de sus “Datos del Cliente”."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Fecha de renovación”"
-      }), " significa la fecha en que el Plan del Cliente se renovará automáticamente de forma anual o mensual, según el Plan del Cliente."]
+      }), " significa la fecha en que la Suscripción del Cliente se renovará automáticamente de forma anual o mensual, según la Suscripción del Cliente."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Revendedor”"
       }), " hace referencia a una entidad de terceros que (i) compra Servicios de Fintesk a Fintesk y revende dichos Servicios de Fintesk a los Clientes, (ii) factura a dichos Clientes directamente y (iii) proporciona a dichos Clientes un servicio de atención al cliente relacionado con los Servicios de Fintesk."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
-        children: "“Información confidencial”"
-      }), " significa números de tarjetas de crédito o débito; números de cuenta financieras o instrucciones de transferencia; números de identificación emitidos por el gobierno (como números de Seguro Social, números de pasaporte), información biométrica, información de salud personal (u otra información protegida bajo cualquier ley de protección de datos de salud aplicable), información personal de niños protegidos bajo cualquier ley de protección de datos de niños y cualquier otra información o combinaciones de información que se encuentran dentro de la definición de “categorías especiales de datos” según cualquier ley aplicable relacionada con la privacidad y la protección de datos."]
+        children: "\"Información confidencial”"
+      }), " significa números de tarjetas de crédito o débito; números de cuenta financieras o instrucciones de transferencia; números de identificación emitidos por el gobierno (como números de Seguro Social, números de pasaporte), información biométrica, información de salud personal (u otra información protegida bajo cualquier ley de protección de datos de salud aplicable), información personal de niños protegidos bajo cualquier ley de protección de datos de niños, datos genéticos, cualquier dato que revele origen racial o étnico, opiniones políticas, creencias religiosas, afiliación sindical, orientación sexual o antecedentes penales. También cubre contraseñas no encriptadas y cualquier otra información o combinaciones de información que se encuentren dentro de la definición de 'categorías especiales de datos' según cualquier ley aplicable relacionada con la privacidad y la protección de datos."]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "“Sub-procesador”"
@@ -473,14 +517,20 @@ function _createMdxContent(props) {
       }), " hace referencia a la compilación de todos los documentos web (incluidas imágenes, archivos php y html) disponibles a través de ", (0,jsx_runtime.jsx)(_components.a, {
         href: "https://www.fintesk.com?utm_source=fintesk-docs",
         children: "Fintesk.com"
-      }), ", sus subdominios o dominios con nombres idénticos bajo otros dominios principales y propiedad de Fintesk."]
+      }), ", sus subdominios o dominios con nombres idénticos bajo otros dominios principales y propiedad de Fintesk.\n", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "“Derechos de Propiedad Intelectual”"
+      }), " hace referencia a los derechos o intereses legales mundiales en cualquier idea, diseño, arquitectura, concepto, método, proceso, técnica, aparato, invención, descubrimiento, mejora, tecnología, know-how, programas informáticos, bases de datos y obras de autoría, incluidos los siguientes y todos los derechos que surjan de o estén asociados con ellos: (i) Todas las patentes y modelos de utilidad de Estados Unidos y extranjeros y sus solicitudes; (ii) Todos los secretos comerciales, know-how e información confidencial o propietaria; (iii) Todos los derechos de autor, ya sean registrados o no, y sus aplicaciones, todos los derechos de derecho consuetudinario, derechos morales; (iv) Marcas comerciales, marcas de servicio e imagen comercial (trade dress); (v) Derechos de trabajo de máscara; y (vi) Cualquier derecho similar, correspondiente o equivalente a cualquiera de los anteriores en cualquier parte del mundo."]
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "2-modificaciones-a-las-condiciones",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "2. MODIFICACIONES A LAS CONDICIONES"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk se reserva el derecho, a su exclusivo criterio, de cambiar, modificar, agregar o eliminar cualquier parte de los Términos de vez en cuando. La notificación de dichas modificaciones puede publicarse en o a través de la Plataforma o los Servicios de Fintesk. El uso continuo por parte del Cliente de los Servicios de Fintesk constituye su aceptación de estos Términos y cualquier modificación que surja."
+      children: "Fintesk se reserva el derecho, a su exclusivo criterio, de cambiar, modificar, agregar o eliminar cualquier parte de estos Términos de vez en cuando. La notificación de dichas modificaciones se proporcionará de manera clara y destacada en o a través de la Plataforma o los Servicios de Fintesk, o mediante un aviso directo por correo electrónico."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "El Cliente tiene el derecho de no aceptar cualquier modificación a los Términos y deberá notificar a Fintesk de su objeción antes de la fecha de entrada en vigor de la modificación, en cuyo caso el uso de los Servicios por parte del Cliente finalizará conforme a las disposiciones de terminación."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "El uso continuo por parte del Cliente de los Servicios de Fintesk después de la fecha de entrada en vigor de cualquier modificación constituye su aceptación incondicional de los Términos modificados."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "3-servicios-de-fintesk",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -492,7 +542,7 @@ function _createMdxContent(props) {
         children: "3.1 Uso de los servicios de Fintesk"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Sujeto a estos Términos y a los Términos complementarios aplicables, y al pago de la Tarifa aplicable, Fintesk otorga al Cliente y a sus Usuarios una licencia no exclusiva, no transferible y no sublicenciable para usar los Servicios de Fintesk para:"
+      children: "Sujeto a estos Términos y a los Términos complementarios aplicables, y al pago de la Tarifa aplicable a la Suscripción seleccionada, Fintesk otorga al Cliente y a sus Usuarios una licencia no exclusiva, no transferible y no sublicenciable para usar los Servicios de Fintesk para:"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
       children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "recopilar, almacenar y organizar los Datos del Cliente;"
@@ -510,7 +560,7 @@ function _createMdxContent(props) {
       children: "Fintesk se reserva el derecho de modificar los Servicios de Fintesk o cualquier parte o elemento de los mismos de vez en cuando sin previo aviso, lo que incluye, entre otros:"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ol, {
       children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Cambiar la marca, reempaquetar o cambiar el precio (incluidos los ajustes a las Tarifas actuales que se aplicarán en la próxima fecha de renovación del Plan) de los Servicios de Fintesk a su exclusivo criterio;"
+        children: "Cambiar la marca, reempaquetar o cambiar el precio (incluidos los ajustes a las Tarifas actuales que se aplicarán en la próxima fecha de renovación de la suscripción) de los Servicios de Fintesk a su exclusivo criterio;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "Dejar de proporcionar o discontinuar el desarrollo de cualquier Servicio, Función o parte o elemento de la Plataforma de Fintesk en particular, de forma temporal o permanente;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
@@ -540,19 +590,19 @@ function _createMdxContent(props) {
         children: "de cualquier terminación del derecho de un Usuario por cualquier razón."
       }), "\n"]
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "34-cambio-de-planes",
+      id: "34-cambio-de-suscripciones",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "3.4 Cambio de planes"
+        children: "3.4 Cambio de suscripciones"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "El Cliente puede actualizar o degradar un Plan actual en cualquier momento seleccionando un nuevo Plan entre la colección de Planes definidos por Fintesk. En tal caso, la tarjeta de crédito del Cliente registrada en Fintesk se cargará automáticamente con una Tarifa para el próximo intervalo de pago con la tasa estipulada en el nuevo Plan. Si el Cliente elige actualizar su Plan, la parte no utilizada de cualquier Tarifa prepaga se aplicará a la Tarifa del Plan actualizado. Si, después del comienzo de un Plazo del Plan, el Cliente elige degradar su Plan, esto puede causar la pérdida de Funciones, funcionalidad, capacidad de la Cuenta, así como la pérdida de Datos del Cliente. No se reembolsará al Cliente ninguna Tarifa prepaga o pendiente por la diferencia de precio entre los Planes en caso de que el Cliente decida bajar de categoría después del comienzo del Plazo del Plan."
+      children: "El Cliente puede actualizar o degradar una suscripción actual en cualquier momento seleccionando una nueva suscripción entre la colección de suscripciones definidas por Fintesk. En tal caso, la tarjeta de crédito del Cliente registrada en Fintesk se cargará automáticamente con una Tarifa para el próximo intervalo de pago con la tasa estipulada en la nueva suscripción. Si el Cliente elige actualizar su Suscripción, La parte no utilizada de cualquier Tarifa prepaga se aplicará a la Tarifa de la Suscripción actualizada. Si elige degradar su Suscripción después del comienzo de un Término de Suscripción. Si, después del comienzo de un Término de Suscripción, el Cliente elige degradar su Suscripción, esto puede causar la pérdida de Funciones, funcionalidad, capacidad de la Cuenta, así como la pérdida de Datos del Cliente. No se reembolsará al Cliente ninguna Tarifa prepaga o pendiente por la diferencia de precio entre las Suscripciones en caso de que el Cliente decida bajar de categoría después del comienzo del Término de Suscripción."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "35-gestión-de-la-cuenta-del-cliente",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "3.5 Gestión de la Cuenta del Cliente"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "El Cliente reconoce que retiene el control administrativo sobre a quién otorga acceso a los Datos del Cliente alojados en los Servicios de Fintesk. El Cliente puede especificar un Usuario para que sea el propietario de la facturación y, según el Plan, uno o más Usuarios para que sean Administradores para administrar su cuenta, y Fintesk tiene derecho a depender de las comunicaciones de un Administrador al atender la Cuenta del Cliente. Los Administradores del Cliente pueden tener la capacidad de acceder, monitorear, usar y/o exportar Datos del Cliente."
+      children: "El Cliente reconoce que retiene el control administrativo sobre a quién otorga acceso a los Datos del Cliente alojados en los Servicios de Fintesk. El Cliente puede especificar un Usuario para que sea el propietario de la facturación y, según la Suscripción, uno o más Usuarios para que sean Administradores para administrar su cuenta, y Fintesk tiene derecho a depender de las comunicaciones de un Administrador al atender la Cuenta del Cliente. Los Administradores del Cliente pueden tener la capacidad de acceder, monitorear, usar y/o exportar Datos del Cliente."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "36-soporte-técnico",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -564,7 +614,7 @@ function _createMdxContent(props) {
       children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "Chat: disponible para todos los usuarios, a través de su cuenta de Fintesk"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Teléfono: los usuarios de ciertos planes pueden solicitar una devolución de llamada del soporte a través de su cuenta de Fintesk"
+        children: "Teléfono: los usuarios de ciertas Suscripciones pueden solicitar una devolución de llamada del soporte a través de su cuenta de Fintesk"
       }), "\n"]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: ["Si tiene problemas para iniciar sesión o no tiene una cuenta de Fintesk, puede comunicarse con nosotros en ", (0,jsx_runtime.jsx)(_components.a, {
@@ -593,23 +643,27 @@ function _createMdxContent(props) {
         children: "3.9 Prueba gratuita"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Un nuevo Cliente puede tener derecho a una Prueba gratuita y no está obligado a proporcionar ninguna información de tarjeta de crédito o pago durante el período de Prueba gratuita. Al vencimiento del período de prueba gratuito, la cuenta se desactivará automáticamente. Para evitar la desactivación o reactivar la Cuenta, el Cliente debe seleccionar un Plan y pagar la Tarifa del primer intervalo de pago del Plan. Si el Cliente no paga la Tarifa del primer intervalo de pago dentro de las 2 semanas posteriores al vencimiento del período de Prueba gratuita, Fintesk tiene derecho a eliminar de forma permanente la Cuenta, incluidos todos los Datos del Cliente. Además de la colección actual de Planes, Fintesk puede ofrecer descuentos y promociones especiales, de vez en cuando, a discreción exclusiva de Fintesk, que pueden estar sujetos a términos y condiciones adicionales."
+      children: "Un nuevo Cliente puede tener derecho a una Prueba gratuita y no está obligado a proporcionar ninguna información de tarjeta de crédito o pago durante el período de Prueba gratuita. Al vencimiento del período de prueba gratuito, la cuenta se desactivará automáticamente. Para evitar la desactivación o reactivar la Cuenta, el Cliente debe seleccionar una Suscripción y pagar la Tarifa del primer intervalo de pago de la Suscripción. Si el Cliente no paga la Tarifa del primer intervalo de pago dentro de las 2 semanas posteriores al vencimiento del período de Prueba gratuita, Fintesk tiene derecho a eliminar de forma permanente la Cuenta, incluidos todos los Datos del Cliente. Además de la colección actual de Suscripciones, Fintesk puede ofrecer descuentos y promociones especiales, de vez en cuando, a discreción exclusiva de Fintesk, que pueden estar sujetos a términos y condiciones adicionales."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "310-servicios-beta",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "3.10 Servicios Beta"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk puede ofrecer a los Clientes ciertas Funciones con fines de prueba y evaluación denominadas Servicios Beta. Fintesk se reserva el derecho de descontinuar total o parcialmente, en cualquier momento y de vez en cuando, temporal o permanentemente, cualquiera de los Servicios Beta, con o sin previo aviso al Cliente. El Cliente acepta que Fintesk no será responsable ante el Cliente o cualquier tercero por cualquier daño relacionado con, que surja del uso del Cliente de los Servicios Beta, o causado por la modificación, suspensión o interrupción de cualquiera de los Servicios Beta, por cualquier razón."
+      children: "Fintesk puede ofrecer a los Clientes ciertas Funciones con fines de prueba y evaluación denominadas Servicios Beta. Fintesk se reserva el derecho de descontinuar total o parcialmente, en cualquier momento y de vez en cuando, temporal o permanentemente, cualquiera de los Servicios Beta, con o sin previo aviso al Cliente. NO OBSTANTE CUALQUIER DISPOSICIÓN EN CONTRARIO EN ESTOS TÉRMINOS, EL CLIENTE ACEPTA QUE FINTESK NO SERÁ RESPONSABLE ANTE EL CLIENTE O CUALQUIER TERCERO POR NINGÚN DAÑO RELACIONADO CON, QUE SURJA DEL USO DEL CLIENTE DE LOS SERVICIOS BETA, O CAUSADO POR LA MODIFICACIÓN, SUSPENSIÓN O INTERRUPCIÓN DE CUALQUIERA DE LOS SERVICIOS BETA, POR CUALQUIER RAZÓN."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "311-aplicaciones-que-no-son-de-fintesk",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "3.11 Aplicaciones que no son de Fintesk"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk o terceros pueden poner a disposición aplicaciones de terceros que no sean de Fintesk. Si el Cliente elige adquirir una aplicación que no sea de Fintesk, los términos y condiciones con respecto a su uso o recepción de la aplicación que no sea de Fintesk son entre el Cliente y el proveedor de esas aplicaciones que no sean de Fintesk y cualquier intercambio de datos entre el Cliente y dicho proveedor externo es únicamente entre el Cliente y el proveedor correspondiente. Cualquier pregunta, inquietud o disputa que surja en función del uso por parte del Cliente de aplicaciones que no sean de Fintesk debe abordarse con el proveedor de dicha aplicación que no sea de Fintesk y no con Fintesk. Fintesk no garantiza ni soporta o mantiene aplicaciones que no sean de Fintesk, ya sea que Fintesk las designe como “certificadas” o no. Fintesk no es responsable de ninguna divulgación, modificación o eliminación de los Datos del cliente que resulten del acceso por parte de dicha aplicación que no sea de Fintesk o su proveedor."
+      children: "Fintesk o terceros pueden poner a disposición aplicaciones de terceros que no sean de Fintesk (incluyendo un posible directorio de \"Marketplace\") y ofrecer un listado de ciertos proveedores externos (\"Proveedores Externos\") que el Cliente contrate para servicios de integración, desarrollo de software u otros servicios en relación con el uso de Fintesk. Si el Cliente elige adquirir una aplicación que no sea de Fintesk o contratar a un Proveedor Externo, los términos y condiciones con respecto a su uso o recepción de la aplicación que no sea de Fintesk o los servicios del Proveedor Externo son entre el Cliente y el proveedor de esas aplicaciones que no sean de Fintesk o el Proveedor Externo y cualquier intercambio de datos entre el Cliente y dicho proveedor externo es únicamente entre el Cliente y el proveedor correspondiente. Cualquier pregunta, inquietud o disputa que surja en función del uso por parte del Cliente de aplicaciones que no sean de Fintesk o servicios de Proveedores Externos debe abordarse con el proveedor de dicha aplicación que no sea de Fintesk o Proveedor Externo y no con Fintesk."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Fintesk no garantiza ni soporta o mantiene aplicaciones que no sean de Fintesk ni los servicios o materiales proporcionados por Proveedores Externos, ya sea que Fintesk las designe como “certificadas” o no. Fintesk no recomienda ningún Proveedor Externo en particular, y la existencia de un directorio o funcionalidad de búsqueda no debe interpretarse como que Fintesk recomienda una Aplicación o Proveedor Externo. Fintesk no es responsable de ninguna divulgación, modificación o eliminación de los Datos del cliente que resulten del acceso por parte de dicha aplicación que no sea de Fintesk o su proveedor. El Cliente debe tener en cuenta que las Aplicaciones que no sean de Fintesk pueden permitir que los usuarios tengan acceso a los Datos del Cliente que normalmente están reservados a los Administradores."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Integración con aplicaciones que no son de Fintesk. Los Servicios de Fintesk pueden contener Funciones y funciones diseñadas para interoperar con aplicaciones que no son de Fintesk. Sin embargo, Fintesk no puede garantizar la disponibilidad continua de dichas Funciones o funcionalidades, y puede dejar de proporcionarlas sin previo aviso y sin dar derecho al Cliente a ningún reembolso, crédito u otra compensación, si, por ejemplo y sin limitación, el proveedor de un servicio que no sea de Fintesk deja de hacer que la aplicación que no es de Fintesk esté disponible para interoperar con las Funciones o funcionalidades correspondientes de una manera aceptable para Fintesk."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "FINTESK NO TENDRÁ RESPONSABILIDAD ALGUNA POR NINGUNA RECLAMACIÓN QUE SURJA DE O SE RELACIONE CON APLICACIONES QUE NO SEAN DE FINTESK O PROVEEDORES EXTERNOS."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "4-restricciones",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -624,15 +678,19 @@ function _createMdxContent(props) {
       children: "El Cliente y sus Usuarios pueden usar los Servicios de Fintesk, y cualquier parte o elemento de los mismos, solo en el alcance, con los medios y para los fines identificados en estos Términos y la ley aplicable. A título enunciativo, ni el Cliente ni ningún Usuario podrá:"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ol, {
       children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "usar los Servicios de Fintesk o cualquier parte o elemento de los mismos para cometer un delito, infringir cualquier ley aplicable o atraer o invitar a otros a llevar a cabo dichas acciones ilegales;"
+        children: "Usar los Servicios de Fintesk o cualquier parte o elemento de los mismos para cometer un delito, infringir cualquier ley aplicable o atraer o invitar a otros a llevar a cabo dichas acciones ilegales;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "copiar, duplicar, distribuir, modificar, adaptar, hackear, crear trabajos derivados, aplicar ingeniería inversa o descompilar los Servicios de Fintesk o cualquier parte o elemento de los mismos, o intentar extraer el código fuente de los mismos, a menos que (i) esté expresamente permitido por la ley aplicable y (ii) en la medida en que Fintesk no esté autorizado por la ley aplicable para excluir o limitar los derechos anteriores;"
+        children: "Copiar, duplicar, distribuir, modificar, adaptar, hackear, crear trabajos derivados, aplicar ingeniería inversa o descompilar los Servicios de Fintesk o cualquier parte o elemento de los mismos, o intentar extraer el código fuente de los mismos, o descifrar, eludir, anular, violar o deshabilitar cualquier característica de seguridad u otras características tecnológicas o medidas de los Servicios de Fintesk o Materiales de Fintesk, a menos que (i) esté expresamente permitido por la ley aplicable y (ii) en la medida en que Fintesk no esté autorizado por la ley aplicable para excluir o limitar los derechos anteriores;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "proporcionar información falsa, inexacta o engañosa;"
+        children: "Acceder o intentar acceder o utilizar los Servicios de Fintesk con fines de análisis competitivo o el desarrollo, provisión o uso de un servicio o producto de software de la competencia;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "actuar de manera difamatoria, calumniosa, amenazante o acosadora para Fintesk; o"
+        children: "Realizar cualquier prueba de seguridad o penetración (penetration testing) de los Servicios de Fintesk o Materiales de Fintesk;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "usar los Servicios de Fintesk o cualquier parte o elemento de los mismos a menos que haya aceptado estar sujeto a estos Términos."
+        children: "Proporcionar información falsa, inexacta o engañosa;"
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Actuar de manera difamatoria, calumniosa, amenazante o acosadora para Fintesk; o"
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Usar los Servicios de Fintesk o cualquier parte o elemento de los mismos de cualquier manera que sea en violación de la ley aplicable o a menos que haya aceptado estar sujeto a estos Términos."
       }), "\n"]
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "42-usos-que-requieren-el-consentimiento-de-fintesk",
@@ -656,13 +714,9 @@ function _createMdxContent(props) {
       children: "El Cliente, cualquier Usuario, Revendedor o agente (“Tercero”) declara, garantiza, acuerda y acepta que, con respecto a los Servicios de Fintesk:"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ol, {
       children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "El Tercero ha cumplido y cumplirá, y hará que sus directores, funcionarios, empleados y agentes cumplan con las leyes y reglamentaciones sobre sanciones económicas, comerciales y financieras de los Estados Unidos, la Unión Europea y cualquier otro sanciones comerciales administradas por la Oficina de Control de Activos Extranjeros (“OFAC”) del Departamento del Tesoro de los EE. UU. y el Departamento de Estado de los EE. UU. (colectivamente, “Sanciones”), y las leyes y regulaciones de los EE. UU., la UE y otros países aplicables relacionadas con los controles de exportación, incluidos aquellos administrados por los Departamentos de Comercio y Estado de los EE. UU. (colectivamente, “Controles Comerciales”)."
+        children: "El Tercero ha cumplido y cumplirá, y hará que sus directores, funcionarios, empleados y agentes cumplan con las leyes y reglamentaciones sobre sanciones económicas, comerciales y financieras."
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "El Tercero no tomará ninguna medida, directa o indirectamente, que pudiera causar que Fintesk o cualquiera de sus Filiales, o cualquiera de sus respectivos funcionarios, directores, empleados o representantes, infrinja cualquier Sanción o Control Comercial."
-      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Tampoco el Tercero ni ninguno de sus funcionarios o directores, empleados y cualquier agente u otro representante que actúe en su nombre (i) ha sido o está designado en alguna lista de personas restringidas o bloqueadas relacionadas con sanciones o exportaciones, incluida la designación en La Lista de Nacionales Especialmente Designados y Personas Bloqueadas de la OFAC o la Lista de Identificaciones de Sanciones Sectoriales de la OFAC, (ii) se encuentra en, está organizada bajo las leyes de, o reside en cualquier país o territorio que sea sujeto de sanciones o embargos por parte de cualquier autoridad gubernamental , incluidos, entre otros, Cuba, Irán, Siria, Corea del Norte, Venezuela y la Región de Crimea de Ucrania, (iii) es o ha sido dueño o está controlado por más del 50 % por cualquier persona o personas descritas en la cláusula (i) o (ii) (colectivamente con (i) y (ii), una “Persona restringida”), o (iv) ha proporcionado o proporcionará los Servicios de Fintesk a cualquier persona descrita en las cláusulas (i)-(iii)."
-      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "El Tercero notificará de inmediato a Fintesk si el Tercero o cualquier miembro del personal empleado o afiliado a un Tercero: (i) comete un incumplimiento real o potencial de Sanciones o Controles comerciales en relación con los Servicios de Fintesk, o (ii) se convierte en una Persona restringida."
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "Fintesk, a su exclusivo criterio, tendrá derecho a cancelar de inmediato el acceso o el uso de los Servicios de Fintesk sin previo aviso ni responsabilidad ante el Tercero, si el Tercero, o cualquier persona empleada o afiliada a un Tercero, toma alguna medida en violación de las disposiciones descritas en esta Sección 4 o si Fintesk determina, a su exclusivo criterio, que el uso continuado de los Servicios de Fintesk por parte del Tercero podría violar Sanciones o Controles comerciales."
       }), "\n"]
@@ -677,14 +731,14 @@ function _createMdxContent(props) {
         children: "5.1. Prestación de servicios de Fintesk"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk (a) pondrá los Servicios de Fintesk, el Contenido y los Datos del cliente a disposición del Cliente de conformidad con estos Términos, (b) brindará soporte como se describe en la Sección 3.6 para los Servicios de Fintesk al Cliente sin cargo adicional, (c) hará esfuerzos comercialmente razonables para hacer que los Servicios de Fintesk estén disponibles las 24 horas del día, los 7 días de la semana, excepto por: (i) el tiempo de inactividad planificado (sobre el cual Fintesk notificará electrónicamente con anticipación), y (ii) cualquier falta de disponibilidad causada por circunstancias fuera del control razonable de Fintesk, que incluye , por ejemplo, un acto de Fuerza Mayor, acto de gobierno, inundación, incendio, terremoto, disturbios civiles, acto de terror, pandemia, huelga u otro problema laboral, falla o retraso del proveedor de servicios de Internet o ataque de denegación de servicio. Fintesk puede usar Sub-procesadores para prestar los Servicios de Fintesk. Fintesk hará todos los esfuerzos comercialmente razonables para garantizar que las transferencias de datos a los Subprocesadores cumplan con los requisitos aplicables al procesamiento de los Datos del Cliente por parte de los Clientes y proporcionará información sobre dichas transferencias de datos en estos Términos para la consideración del Cliente. Para obtener información adicional sobre dichas transferencias con Sub-procesadores, consulte el Aviso de privacidad de Fintesk y la lista actual de Sub-procesadores."
+      children: "Fintesk (a) pondrá los Servicios de Fintesk, el Contenido y los Datos del cliente a disposición del Cliente de conformidad con estos Términos, (b) brindará soporte como se describe en la Sección 3.6 para los Servicios de Fintesk al Cliente de acuerdo con la Suscripción del Cliente, (c) hará esfuerzos comercialmente razonables para hacer que los Servicios de Fintesk estén disponibles las 24 horas del día, los 7 días de la semana, excepto por: (i) el tiempo de inactividad planificado (sobre el cual Fintesk notificará electrónicamente con anticipación), y (ii) cualquier falta de disponibilidad causada por circunstancias fuera del control razonable de Fintesk, que incluye , por ejemplo, un acto de Fuerza Mayor, acto de gobierno, inundación, incendio, terremoto, disturbios civiles, acto de terror, pandemia, huelga u otro problema laboral, falla o retraso del proveedor de servicios de Internet o ataque de denegación de servicio. Fintesk puede usar Sub-procesadores para prestar los Servicios de Fintesk. Fintesk hará todos los esfuerzos comercialmente razonables para garantizar que las transferencias de datos a los Subprocesadores cumplan con los requisitos aplicables al procesamiento de los Datos del Cliente por parte de los Clientes y proporcionará información sobre dichas transferencias de datos en estos Términos para la consideración del Cliente. Para obtener información adicional sobre dichas transferencias con Sub-procesadores, consulte el Aviso de privacidad de Fintesk y la lista actual de Sub-procesadores."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "52-protección-de-datos-del-cliente",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "5.2. Protección de Datos del Cliente"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk mantendrá salvaguardas administrativas, físicas y técnicas para proteger la seguridad, confidencialidad e integridad de los Datos del Cliente. Esas salvaguardas incluirán, entre otras, medidas para evitar el acceso, uso, modificación o divulgación no autorizados de los Datos del Cliente. Además, Fintesk solo accederá, usará, modificará o divulgará de otro modo los Datos del Cliente: (a) para proporcionar los Servicios de Fintesk y prevenir o abordar problemas técnicos o de servicio, (b) según lo exija la ley de acuerdo con la Sección 7.6 (Divulgación obligatoria) a continuación, (c) según lo permita expresamente el Cliente o Usuario por escrito."
+      children: "Fintesk mantendrá salvaguardas administrativas, físicas y técnicas para proteger la seguridad, confidencialidad e integridad de los Datos del Cliente. Esas salvaguardas incluirán, entre otras, medidas para evitar el acceso, uso, modificación o divulgación no autorizados de los Datos del Cliente. Además, Fintesk solo accederá, usará, modificará o divulgará de otro modo los Datos del Cliente: (a) para proporcionar los Servicios de Fintesk y prevenir o abordar problemas técnicos o de servicio, (b) según lo exija la ley de acuerdo con la Sección 7.6 (Divulgación obligatoria) a continuación, (c) según lo permitan estos Términos, (d) según lo permita expresamente el Cliente o Usuario por escrito.Justificación de la Adición"
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "6-tarifaspago",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -693,9 +747,9 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Las disposiciones de esta Sección 6 son aplicables solo si el Cliente accede a los Servicios de Fintesk directamente desde Fintesk. Si el Cliente compra el acceso a los Servicios de Fintesk a través de un Revendedor, las condiciones de pago se establecerán en el acuerdo del Cliente con dicho Revendedor."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "El uso de los Servicios de Fintesk, que no sea a través de una Prueba gratuita, está sujeto a una Tarifa. Al registrarse en una Cuenta, el Cliente debe seleccionar un Plan. Se aplican diferentes tarifas a diferentes Planes. La Tarifa aplicable se cobra por adelantado en forma mensual o anual. Fintesk se reserva el derecho de modificar las Tarifas de cualquier Plan, a su discreción razonable, en cualquier momento después del comienzo del Plazo del Plan, con al menos un mes de aviso previo al Cliente, dicha modificación no surtirá efecto hasta el comienzo de cualquier Plan inmediatamente después del Plazo del Plan en el que Fintesk notificó al Cliente sobre la modificación."
+      children: "El uso de los Servicios de Fintesk, que no sea a través de una Prueba gratuita, está sujeto a una Tarifa. Al registrarse en una Cuenta, el Cliente debe seleccionar una Suscripción. Se aplican diferentes tarifas a diferentes suscripciones. La Tarifa aplicable se cobra por adelantado en forma mensual o anual. Fintesk se reserva el derecho de modificar las Tarifas de cualquier Suscripción, a su discreción razonable, en cualquier momento después del comienzo del Término de Suscripción, con al menos un mes de aviso previo al Cliente, dicha modificación no surtirá efecto hasta el comienzo de cualquier Suscripción inmediatamente después del Término de Suscripción en el que Fintesk notificó al Cliente sobre la modificación."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "El Cliente autoriza a Fintesk a cobrar automáticamente al Cliente las Tarifas correspondientes a partir de la Fecha de renovación, a menos que el Plan haya sido rescindido o cancelado de acuerdo con estos Términos. Si un Cliente desea reducir el número de Usuarios, deberá hacerlo antes de la Fecha de Renovación. Los clientes pueden cancelar su Plan en cualquier momento como se describe a continuación, sin embargo, deben hacerlo antes de la Fecha de renovación para evitar la facturación de las Tarifas del próximo Plazo del Plan. Si el Cliente elige cancelar su Plan durante el Plazo del Plan, el Cliente puede usar el Servicio hasta el final del Plazo del Plan vigente en ese momento del Cliente, pero no se le reembolsarán las Tarifas cobradas más recientemente (o las anteriores)."
+      children: "El Cliente autoriza a Fintesk a cobrar automáticamente al Cliente las Tarifas correspondientes a partir de la Fecha de renovación, a menos que la Suscripción haya sido rescindida o cancelada de acuerdo con estos Términos. Si un Cliente desea reducir el número de Usuarios, deberá hacerlo antes de la Fecha de Renovación. Los clientes pueden cancelar su Suscripción en cualquier momento como se describe a continuación, sin embargo, deben hacerlo antes de la Fecha de renovación para evitar la facturación de las Tarifas del próximo Término de Suscripción. Si el Cliente elige cancelar su Suscripción durante el Término de Suscripción, el Cliente puede usar el Servicio hasta el final del Término de Suscripción vigente en ese momento del Cliente, pero no se le reembolsará las Tarifas cobradas más recientemente (o las anteriores)."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Todas las tarifas no son reembolsables. Para mayor claridad, no hay reembolsos ni créditos por períodos en los que el Cliente no usó una Cuenta activada, la usó solo parcialmente, desactivó la Cuenta o canceló estos Términos durante un intervalo de pago en curso, o cuando una Cuenta es cancelada o suspendida por Fintesk de acuerdo con la Sección 13."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
@@ -708,7 +762,7 @@ function _createMdxContent(props) {
         children: "6.1 Autorización de tarjeta de pago"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk (LibroContable SpA) y sus Filiales pueden solicitar la pre-autorización de la cuenta de la tarjeta de pago del Cliente antes de la compra de los Servicios de Fintesk para verificar que la tarjeta de pago sea válida y tenga los fondos necesarios o el crédito disponible para cubrir cualquier compra. El Cliente acepta aprobar dicha pre-autorización de la tarjeta y pagar los montos de un Plan descrito en el Sitio web, y autoriza a Fintesk a cargar todas las Tarifas a dicha cuenta de tarjeta. El cliente acepta proporcionar a Fintesk información actualizada sobre su cuenta de tarjeta de pago a pedido de Fintesk y en cualquier momento en que la información proporcionada anteriormente ya no sea válida."
+      children: "Fintesk (LibroContable SpA) y sus Filiales pueden solicitar la pre-autorización de la cuenta de la tarjeta de pago del Cliente antes de la compra de los Servicios de Fintesk para verificar que la tarjeta de pago sea válida y tenga los fondos necesarios o el crédito disponible para cubrir cualquier compra. El Cliente acepta aprobar dicha pre-autorización de la tarjeta y pagar los montos de una Suscripción descrito en el Sitio web, y autoriza a Fintesk a cargar todas las Tarifas a dicha cuenta de tarjeta. El cliente acepta proporcionar a Fintesk información actualizada sobre su cuenta de tarjeta de pago a pedido de Fintesk y en cualquier momento en que la información proporcionada anteriormente ya no sea válida."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "62-pagos-por-débito-directo",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -724,29 +778,50 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: ["Fintesk usa Flow para procesar los pagos de débito bancario del Cliente. Más información sobre cómo Flow procesa los datos personales del Cliente y los derechos de protección de datos del Cliente, incluido el derecho del Cliente a oponerse, está disponible en ", (0,jsx_runtime.jsx)(_components.a, {
         href: "https://www.flow.cl/faq.php",
-        children: "Flow.cl"
+        children: "https://www.flow.cl/faq.php"
       })]
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "64-factura-electrónica",
+      id: "64-proveedores-de-servicios-de-pago",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "6.4 Factura Electrónica"
+        children: "6.4 Proveedores de Servicios de Pago"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "El Cliente reconoce y acepta que Fintesk puede utilizar un proveedor de servicios de pago externo (ej. Adyen, Stripe, o similar) para procesar los pagos de las Tarifas de Suscripción. El Cliente es responsable de cumplir con los términos y condiciones de dicho proveedor de servicios de pago. Fintesk no es responsable de los errores, fallas o cargos adicionales impuestos por el proveedor de servicios de pago o la institución financiera del Cliente, y el Cliente indemnizará a Fintesk por cualquier disputa de pago o contracargo. Fintesk no asume ninguna responsabilidad en relación con la seguridad de la información de pago del Cliente o la información que el Cliente proporcione al proveedor de servicios de pago."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "65-impuestos",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "6.5 Impuestos"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "A menos que se indique lo contrario, las Tarifas de Suscripción no incluyen ningún impuesto, tasa, arancel, gravamen o evaluación similar (incluidos, entre otros, impuestos al valor agregado, impuestos sobre las ventas, impuestos sobre bienes y servicios, impuestos sobre transacciones, impuestos sobre el consumo o impuestos especiales, conocidos colectivamente como 'Impuestos') impuestos por cualquier autoridad fiscal. El Cliente es responsable de pagar todos los Impuestos asociados con las compras del Cliente de conformidad con estos Términos, con la excepción de los impuestos basados únicamente en los ingresos de Fintesk."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "66-factura-electrónica",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "6.6 Factura Electrónica"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Si Fintesk no ha solicitado la pre-autorización de la tarjeta de pago del Cliente, entonces, antes del final de cada intervalo de pago, se emitirá al Cliente una factura electrónica por el pago de la Tarifa del siguiente intervalo de pago. El cliente debe pagar la factura antes de la fecha de vencimiento indicada en la factura."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "65-cargos-por-pagos-atrasados",
+      id: "67-cargos-por-pagos-atrasados",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "6.5 Cargos por pagos atrasados"
+        children: "6.7 Cargos por pagos atrasados"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "En caso de retraso en cualquier pago, Fintesk puede exigir al Cliente que pague intereses sobre el retraso (multa por pago atrasado) por el período en que dicho pago esté vencido. La tasa de interés por pago atrasado será del 1% mensual o el máximo permitido por la ley local, el que sea mayor."
+      children: "En caso de retraso en cualquier pago, Fintesk puede exigir al Cliente que pague intereses sobre el retraso (multa por pago atrasado) por el período en que dicho pago esté vencido. La tasa de interés por pago atrasado será del 3% mensual o el máximo permitido por la ley local, el que sea mayor."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "66-derecho-a-compensación",
+      id: "68-derecho-a-compensación",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "6.6 Derecho a compensación"
+        children: "6.8 Derecho a compensación"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Además de otros derechos y recursos que Fintesk pueda tener, si está legalmente permitido, Fintesk puede compensar cualquier obligación de pago con el Cliente en la que Fintesk pueda incurrir en virtud de los Términos con cualquier tarifa adeudada a Fintesk y que el Cliente aún no haya pagado en virtud de los Términos, o cualquier otro acuerdo entre el Cliente y Fintesk."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "69-no-reembolso",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "6.9 No Reembolso"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "El Cliente acepta que, con la excepción de cualquier reembolso expresamente permitido en estos Términos, todas las Tarifas pagadas no son reembolsables. Fintesk no está obligado a emitir un reembolso o crédito por el tiempo no utilizado de la Suscripción, la pérdida de características o funcionalidad debido a la degradación de la Suscripción, o por cualquier terminación o cancelación anticipada por parte del Cliente."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "7-datos-del-clienteinformación-sensible",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -777,13 +852,13 @@ function _createMdxContent(props) {
         children: "7.2 Cargar datos del cliente en los servicios de Fintesk"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "El Cliente es el único responsable de sus propios Datos de Cliente y de las consecuencias de publicarlos en el Servicio de Fintesk o a través de este."
+      children: "El Cliente es el único responsable de la precisión, calidad, legalidad, fiabilidad, integridad y corrección de todos los Datos del Cliente. El Cliente declara y garantiza que tiene la autoridad y los derechos necesarios para utilizar los Servicios de Fintesk y cargar los Datos del Cliente según lo contempla este Contrato, sin violar los derechos de terceros o las leyes aplicables."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Si el Cliente carga Datos del Cliente en los Servicios de Fintesk, dichos Datos del Cliente y cualquier procesamiento de dichos Datos del Cliente deben cumplir con estos Términos y la ley aplicable."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Todos los derechos, títulos e intereses sobre los Datos del Cliente pertenecen al Cliente o a sus respectivos propietarios (incluidos los Usuarios, las personas y las organizaciones), ya sea que el Cliente los publique y/o los cargue o que estén disponibles en o a través de los Servicios de Fintesk."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Al cargar los Datos del Cliente en los Servicios de Fintesk, el Cliente autoriza a Fintesk a procesar los Datos del Cliente."
+      children: "Al cargar los Datos del Cliente en los Servicios de Fintesk, El Cliente otorga a Fintesk una licencia y un derecho mundiales, no exclusivos, libres de regalías y totalmente pagados, para usar, reproducir, modificar, adaptar, mostrar y distribuir los Datos del Cliente (i) según sea necesario para proporcionar los Servicios de Fintesk y sus funcionalidades al Cliente, (ii) según lo exija la ley, y (iii) según lo permita de otro modo este Contrato (incluyendo para generar Datos de Fintesk agregados o anonimizados, si se permite en la Sección 1.1)."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "El cliente es responsable de garantizar que:"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
@@ -800,7 +875,7 @@ function _createMdxContent(props) {
         children: "7.3 Sin responsabilidad de los datos del cliente"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk no garantiza ninguna precisión con respecto a la información contenida en los Datos del Cliente y recomienda que el Cliente considere detenidamente lo que transmite, envía o publica a través de los Servicios de Fintesk. El Cliente entiende que toda la información contenida en los Datos del Cliente es responsabilidad exclusiva de la persona de quien se originaron dichos Datos del Cliente. Esto significa que el Cliente, y no Fintesk, es completamente responsable de todos los Datos del Cliente que se cargan, publican, transmiten o ponen a disposición de otro modo a través de los Servicios de Fintesk, por parte del Cliente o sus Usuarios, así como de cualquier acción correctiva tomada por Fintesk o otros Clientes o Usuarios como resultado de dichos Datos del Cliente."
+      children: "Fintesk no garantiza ninguna precisión con respecto a la información contenida en los Datos del Cliente y recomienda que el Cliente considere detenidamente lo que transmite, envía o publica a través de los Servicios de Fintesk. El Cliente entiende que toda la información contenida en los Datos del Cliente es responsabilidad exclusiva de la persona de quien se originaron dichos Datos del Cliente. El Cliente es el único responsable de la precisión, calidad, legalidad, fiabilidad, integridad y corrección de todos los Datos del Cliente. El Cliente declara y garantiza que tiene la autoridad y los derechos necesarios para utilizar los Servicios de Fintesk y cargar los Datos del Cliente según lo contempla este Contrato, sin violar los derechos de terceros o las leyes aplicables."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "74-información-sensible-y-datos-de-clientes-ilícitos",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -834,6 +909,8 @@ function _createMdxContent(props) {
       children: "Los servicios de Fintesk no están diseñados para cumplir con las regulaciones específicas de la industria, como la Ley de Portabilidad y Responsabilidad de Seguros Médicos (HIPAA) o la Ley Federal de Gestión de Seguridad de la Información (FISMA). Como tal, el Cliente no puede usar los Servicios de Fintesk donde sus comunicaciones estarían sujetas a dichas leyes. Además, el Cliente no puede usar los Servicios de Fintesk de una manera que viole la Ley Gramm-Leach-Bliley (GLBA)."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "EL CLIENTE RECONOCE QUE LOS SERVICIOS DE FINTESK NO HAN SIDO DISEÑADOS PARA PROCESAR O GESTIONAR INFORMACIÓN SENSIBLE Y, POR CONSIGUIENTE, EL CLIENTE ACEPTA NO UTILIZAR LOS SERVICIOS DE FINTESK PARA RECOPILAR, GESTIONAR O PROCESAR INFORMACIÓN SENSIBLE. FINTESK NO TENDRÁ, Y FINTESK RENUNCIA ESPECÍFICAMENTE, CUALQUIER RESPONSABILIDAD QUE PUEDA RESULTAR DEL USO DE LOS SERVICIOS DE FINTESK POR PARTE DEL CLIENTE PARA RECOPILAR, PROCESAR O GESTIONAR INFORMACIÓN SENSIBLE."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "En la medida en que Fintesk procese Datos Personales (tal como se define en el DPA) en nombre del Cliente, las partes acuerdan estar sujetas a la versión vigente del Anexo de Procesamiento de Datos de Fintesk. El DPA describe las obligaciones de Fintesk como 'procesador' (o su equivalente) en relación con los Datos del Cliente que contienen Datos Personales"
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "75-derechos-de-fintesk-sobre-los-datos-del-cliente",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -851,7 +928,7 @@ function _createMdxContent(props) {
         children: "7.6 Divulgaciones obligatorias"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk se esfuerza por cumplir con todas las leyes, y se reserva el derecho de eliminar cualquier Dato del cliente de la Plataforma al recibir un aviso de eliminación conforme, incluidas las órdenes o avisos judiciales."
+      children: "Fintesk se esforzará, a menos que la ley lo prohíba o exista una orden judicial, por notificar al Cliente antes de divulgar Datos del Cliente a un tercero como resultado de un requisito legal o una orden gubernamental o judicial. El Cliente es responsable de objetar o impugnar legalmente dicha solicitud de divulgación."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "8-privacidad",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -873,11 +950,11 @@ function _createMdxContent(props) {
         children: "9.1 Derechos de propiedad intelectual de Fintesk"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Los Servicios de Fintesk, la Plataforma, los Materiales de Fintesk, los nombres comerciales y las marcas registradas de Fintesk, y cualquier propiedad intelectual asociada a los mismos son, única y exclusivamente, propiedad y están operados por Fintesk, sus Afiliados o sus respectivos proveedores externos y socios de alojamiento."
+      children: "Los Servicios de Fintesk, la Plataforma, los Materiales de Fintesk (incluidos los Datos de Fintesk), los nombres comerciales y las marcas registradas de Fintesk, y cualquier Derecho de Propiedad Intelectual asociado a los mismos son, única y exclusivamente, propiedad y están operados por Fintesk, sus Afiliados o sus respectivos proveedores externos y socios de alojamiento."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Los materiales de Fintesk están protegidos por derechos de autor, imagen comercial, patentes, secretos comerciales y leyes de marcas registradas, convenciones y tratados internacionales, y todas las demás leyes de propiedad intelectual y derechos de propiedad."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "A excepción de lo establecido en estos Términos, el uso por parte del Cliente de los Servicios de Fintesk y los Materiales de Fintesk, y cualquier parte o elemento, no otorga al Cliente ningún derecho de propiedad o derechos de propiedad intelectual sobre los mismos."
+      children: "A excepción de la licencia limitada otorgada en la Sección 3 y lo establecido en estos Términos, el uso por parte del Cliente de los Servicios de Fintesk y los Materiales de Fintesk, y cualquier parte o elemento, no otorga al Cliente ningún derecho de propiedad o Derechos de Propiedad Intelectual sobre los mismos."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Cualquier distribución, publicación o explotación comercial o promocional de los Materiales de Fintesk está estrictamente prohibida a menos que el Cliente haya recibido el permiso expreso previo por escrito de Fintesk o del titular de los derechos correspondiente."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
@@ -885,9 +962,9 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Fintesk se reserva todos los derechos sobre los Servicios de Fintesk, la Plataforma, los Materiales de Fintesk y los nombres comerciales y las marcas registradas de Fintesk que no se otorgan expresamente en los Términos."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "92-contenido",
+      id: "92-derechos-de-propiedad-intelectual-del-cliente-sobre-sus-datos",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "9.2 Contenido"
+        children: "9.2 Derechos de Propiedad Intelectual del Cliente sobre sus Datos"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Sujeto a estos Términos y al pago de la Tarifa aplicable, Fintesk otorga al Cliente y a sus Usuarios una licencia no exclusiva, no transferible y no sublicenciable para descargar una sola copia de cualquier parte del Contenido únicamente para su uso personal, no -uso comercial."
@@ -897,17 +974,26 @@ function _createMdxContent(props) {
       children: "El Cliente reconoce expresamente que no adquiere ningún derecho de propiedad al descargar cualquier material protegido por derechos de autor desde o a través de la Plataforma o los Servicios de Fintesk."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "El Cliente no copiará, distribuirá ni publicará ningún Contenido ni ninguna información obtenida o derivada del mismo, salvo que Fintesk lo permita expresamente."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "El Cliente retendrá la propiedad de todos los Derechos de Propiedad Intelectual sobre los Datos del Cliente. Sujeto al otorgamiento de la licencia a Fintesk en la Sección 7.2 (Licencia de Uso para Fintesk), Fintesk no adquiere ningún derecho, título o interés, expreso o implícito, en los Datos del Cliente, salvo lo dispuesto en estos Términos.9.3 Comentarios o Sugerencias (Feedback) (Añadir)"
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "93-comentarios",
+      id: "93-comentarios-feedback",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "9.3 Comentarios"
+        children: "9.3 Comentarios (Feedback)"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Si un Cliente o un Usuario proporciona Comentarios a Fintesk, Fintesk tendrá derecho a utilizar dichos Comentarios a su discreción, lo que incluye, entre otros, la incorporación de dichos cambios sugeridos en los Servicios de Fintesk."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Por el presente, el Cliente o Usuario otorga a Fintesk una licencia perpetua, irrevocable, no exclusiva y libre de regalías bajo todos los derechos necesarios para incorporar, publicar, reproducir, distribuir, modificar, adaptar, preparar trabajos derivados, exhibir públicamente, ejecutar públicamente, explotar y usar Comentarios para cualquier objetivo."
+      children: "Por la presente, el Cliente asigna y transfiere irrevocablemente a Fintesk todos sus derechos, títulos e intereses sobre cualquier Comentario o Feedback proporcionado a Fintesk. Fintesk tendrá el derecho de utilizar y explotar dichos Comentarios de forma indefinida sin ninguna obligación de compensación, contraprestación o atribución al Cliente o Usuario."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Fintesk tendrá derecho a modificar o eliminar cualquier Comentario proporcionado en las áreas públicas del Sitio web que Fintesk considere, a su exclusivo criterio, dañino, ofensivo, amenazante, abusivo, acosador, tortuoso, difamatorio, vulgar, obsceno, invasivo de la privacidad de otra persona, detestable o ilegal."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "93-derechos-de-terceros",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "9.3 Derechos de Terceros"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "El Cliente acepta que los Servicios de Fintesk pueden contener o incorporar software, contenido, datos o materiales de terceros protegidos por derechos de autor, patentes, marcas registradas u otros derechos de propiedad intelectual propiedad o licenciados a dichos terceros. El Cliente acepta cumplir con todos los términos de licencia o de uso asociados con dichos materiales de terceros. Fintesk no tendrá responsabilidad alguna por reclamos que surjan o se relacionen con derechos de propiedad intelectual de terceros."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "10-exenciones-de-responsabilidad-sin-garantía",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -920,14 +1006,42 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "A MENOS QUE FINTESK ESTABLEZCA EXPRESAMENTE LO CONTRARIO, FINTESK Y SUS FILIALES NO GARANTIZAN NI REALIZAN NINGUNA REPRESENTACIÓN CON RESPECTO AL USO O LOS RESULTADOS DEL USO DE LA PLATAFORMA, LOS SERVICIOS DE FINTESK, LOS MATERIALES DE FINTESK O CUALQUIER SITIO WEB, EN TÉRMINOS DE CORRECCIÓN, PRECISIÓN O CONFIABILIDAD , O DE OTRO MODO."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "TODOS LOS SERVICIOS PROFESIONALES, INCLUIDOS, ENTRE OTROS, IMPLEMENTACIÓN, IMPORTACIÓN DE DATOS, CAPACITACIÓN, CONSULTORÍA Y SERVICIOS DE SOPORTE, SE PROPORCIONAN \"TAL CUAL\" SIN NINGUNA GARANTÍA, EXPRESA O IMPLÍCITA, INCLUIDAS, ENTRE OTRAS, LAS GARANTÍAS DE COMERCIABILIDAD, IDONEIDAD PARA UN PROPÓSITO PARTICULAR O NO INFRACCIÓN. EL CLIENTE RECONOCE QUE LOS RESULTADOS DE LOS SERVICIOS PROFESIONALES PUEDEN VARIAR Y QUE PIPEDRIVE NO GARANTIZA NINGÚN RESULTADO O RESULTADOS ESPECÍFICOS DE DICHOS SERVICIOS. AL PROPORCIONAR A PIPEDRIVE O A SUS REPRESENTANTES ACCESO A LAS CUENTAS DEL CLIENTE, YA SEA DIRECTAMENTE O A TRAVÉS DE UNA APLICACIÓN DE TERCEROS, EL CLIENTE DA SU CONSENTIMIENTO A DICHO ACCESO Y ACEPTA QUE PIPEDRIVE NO SERÁ RESPONSABLE DE NINGÚN PROBLEMA, ERROR O DAÑO QUE SURJA DE DICHO ACCESO O ACCIONES RELACIONADAS."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "SI LAS LEYES DE CIERTOS PAÍSES Y ESTADOS NO PERMITEN LIMITACIONES EN LAS GARANTÍAS IMPLÍCITAS O LA EXCLUSIÓN O LIMITACIÓN DE CIERTOS DAÑOS, ALGUNAS O TODAS LAS RENUNCIAS, EXCLUSIONES O LIMITACIONES ANTERIORES, ESTABLECIDAS EN ESTA SECCIÓN 10, PUEDEN NO APLICAR A FINTESK, Y EL CLIENTE PUEDE TENER DERECHOS ADICIONALES SEGÚN LO ESTABLECE LA LEY."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "11-indemnización",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "11. INDEMNIZACIÓN"
       })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "111-indemnización-por-el-cliente",
+      children: "11.1 Indemnización por el Cliente"
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "El Cliente acepta defender, indemnizar y eximir de responsabilidad a FINTESK y sus Afiliados, y a sus respectivos directores, funcionarios, empleados y agentes, de cualquier reclamo, pérdida, daño, responsabilidad, incluidos los honorarios de abogados, que surja del uso o mal uso de FINTESK. Servicios, Materiales de FINTESK, representaciones hechas a FINTESK, sus Afiliados y/o terceros, violación de estos Términos, violación de los derechos de cualquier otra persona o entidad, o cualquier incumplimiento de las representaciones, garantías y convenios anteriores. FINTESK se reserva el derecho, a sus expensas, de asumir la defensa y el control exclusivos de cualquier asunto por el cual el Cliente deba indemnizar a FINTESK, y el Cliente acepta cooperar con dicha defensa de estos reclamos."
+      children: "El Cliente defenderá, indemnizará y eximirá de responsabilidad a Fintesk, sus Afiliados y sus respectivos directores, funcionarios, empleados y agentes (colectivamente, las \"Partes de Fintesk\"), contra cualquier reclamación, pérdida, daño, responsabilidad o gasto, incluidos los honorarios de abogados (\"Reclamación\") que surja de o se relacione con:"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "El uso o mal uso de los Servicios o Materiales de Fintesk por parte del Cliente o sus Usuarios."
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "El incumplimiento por parte del Cliente o sus Usuarios de estos Términos o cualquier ley aplicable."
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Cualquier Reclamación de un tercero que alegue que los Datos del Cliente infringen los derechos de propiedad intelectual de dicho tercero."
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Cualquier incumplimiento o inexactitud de las representaciones o garantías del Cliente en virtud de estos Términos."
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Fintesk se reserva el derecho, a su cargo, de asumir la defensa y el control exclusivos de cualquier asunto sujeto a indemnización por parte del Cliente, y el Cliente acepta cooperar con Fintesk en dicha defensa.2. 11.2 Indemnización por Fintesk"
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "112-indemnización-por-fintesk",
+      children: "11.2 Indemnización por Fintesk"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Fintesk defenderá, indemnizará y eximirá de responsabilidad al Cliente, a sus Afiliados y a sus respectivos directores, funcionarios, empleados y agentes contra cualquier Reclamación de un tercero que alegue que los Servicios de Fintesk (excluyendo las Aplicaciones que no son de Fintesk y los Datos del Cliente) infringen directamente los Derechos de Propiedad Intelectual de dicho tercero."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Fintesk no tendrá ninguna obligación de indemnización bajo esta sección si la Reclamación surge de: (i) el uso de los Servicios por parte del Cliente de forma contraria a estos Términos; (ii) el uso de los Servicios en combinación con software o datos no proporcionados por Fintesk; (iii) cualquier Dato del Cliente; o (iv) las Aplicaciones que no son de Fintesk."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Si Fintesk cree razonablemente que puede surgir un reclamo de infracción relacionado con los Servicios de Fintesk, Fintesk puede, sin limitar las obligaciones de indemnización de Fintesk en el presente, procurar el derecho para que el Cliente continúe utilizando los Servicios de Fintesk o modificar los Servicios de Fintesk de una manera funcionalmente equivalente para evitar tal reclamo de infracción. Si las opciones anteriores no están disponibles en términos y condiciones comercialmente razonables (según la determinación de Fintesk), Fintesk puede rescindir inmediatamente estos Términos y reembolsar al Cliente un monto prorrateado de Tarifas de Suscripción prepagas por acceso a los Servicios realmente pagados por el Cliente por el resto del Término de Suscripción."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Las Partes del Cliente que reciban notificación, o se den cuenta, de un reclamo que Fintesk ha acordado defender en virtud de esta Sección deben dar a Fintesk un aviso por escrito inmediato de dicho reclamo o alegación, estableciendo con un detalle razonable los hechos y circunstancias que rodean el reclamo. Las Partes del Cliente no realizarán ningún pago ni incurrirán en costos o gastos con respecto a dicho reclamo, excepto según lo solicite Fintesk o sea necesario para cumplir con este procedimiento. Las Partes del Cliente no harán ninguna admisión de responsabilidad ni tomarán ninguna otra medida que limite la capacidad de Fintesk para defender el reclamo. Fintesk tendrá derecho a asumir el control total y completo de la defensa o liquidación de dicho reclamo o alegación. Las Partes del Cliente cooperarán plenamente en la defensa o liquidación del reclamo según lo solicite razonablemente Fintesk."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "12-limitación-de-responsabilidad",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -948,7 +1062,7 @@ function _createMdxContent(props) {
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "uso de los Datos del Cliente por parte del Cliente o cualquiera de los Usuarios asociados con la Cuenta;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "actualización o degradación de un Plan actual por parte del Cliente;"
+        children: "actualización o degradación de una Suscripción actual por parte del Cliente;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "cualquier divulgación, pérdida o uso no autorizado de las credenciales de inicio de sesión del Cliente o cualquier Usuario debido a que el Cliente no las mantuvo confidenciales;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
@@ -982,7 +1096,7 @@ function _createMdxContent(props) {
         children: "12.2 Limitación de responsabilidad"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "EN NINGÚN CASO LA RESPONSABILIDAD TOTAL DE FINTESK Y SUS AFILIADOS QUE SURJA O ESTÉ RELACIONADA CON ESTOS TÉRMINOS, YA SEA CON RESPECTO A UN ÚNICO OCURRIMIENTO O UNA SERIE DE OCURRENCIAS, EXCEDERÁ EL MONTO TOTAL PAGADO POR EL CLIENTE A CONTINUACIÓN POR LOS SERVICIOS ESPECÍFICOS DE FINTESK QUE DIERON LUGAR A LA RESPONSABILIDAD EN LOS SEIS MESES ANTERIORES AL PRIMER INCIDENTE DEL QUE SURGIÓ LA RESPONSABILIDAD. LA LIMITACIÓN ANTERIOR SE APLICARÁ SI UNA ACCIÓN ES POR NEGLIGENCIA, POR CONTRATO O AGRAVIO, DECLARACIÓN FALSA O DE CUALQUIER OTRO TIPO, E INDEPENDIENTEMENTE DE LA TEORÍA DE LA RESPONSABILIDAD, PERO NO LIMITARÁ LAS OBLIGACIONES DE PAGO DEL CLIENTE ESTABLECIDAS EN LA SECCIÓN 5 “HONORARIOS/PAGO”."
+      children: "EN NINGÚN CASO LA RESPONSABILIDAD TOTAL DE FINTESK Y SUS AFILIADOS QUE SURJA O ESTÉ RELACIONADA CON ESTOS TÉRMINOS, YA SEA CON RESPECTO A UN ÚNICO OCURRIMIENTO O UNA SERIE DE OCURRENCIAS, EXCEDERÁ EL MONTO TOTAL PAGADO POR EL CLIENTE A CONTINUACIÓN POR LOS SERVICIOS ESPECÍFICOS DE FINTESK QUE DIERON LUGAR A LA RESPONSABILIDAD EN LOS DOCE (12) MESES ANTERIORES AL PRIMER INCIDENTE DEL QUE SURGIÓ LA RESPONSABILIDAD. LA LIMITACIÓN ANTERIOR SE APLICARÁ SI UNA ACCIÓN ES POR NEGLIGENCIA, POR CONTRATO O AGRAVIO, DECLARACIÓN FALSA O DE CUALQUIER OTRO TIPO, E INDEPENDIENTEMENTE DE LA TEORÍA DE LA RESPONSABILIDAD, PERO NO LIMITARÁ LAS OBLIGACIONES DE PAGO DEL CLIENTE ESTABLECIDAS EN LA SECCIÓN 5 “HONORARIOS/PAGO”."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "123-exclusión-de-daños-consecuentes-y-relacionados",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -990,10 +1104,20 @@ function _createMdxContent(props) {
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "A EXCEPCIÓN DE LAS OBLIGACIONES DE INDEMNIZACIÓN DEL CLIENTE ESTABLECIDAS EN LA SECCIÓN 11 “INDEMNIFICACIÓN”, EN NINGÚN CASO NINGUNA DE LAS PARTES O SUS AFILIADOS TENDRÁ NINGUNA RESPONSABILIDAD DERIVADA O RELACIONADA CON ESTOS TÉRMINOS POR LA PÉRDIDA DE BENEFICIOS, INGRESOS, FONDO DE COMERCIO O INDIRECTO, ESPECIAL, INCIDENTAL, CONSECUENCIA, COBERTURA, INTERRUPCIÓN DEL NEGOCIO O DAÑOS PUNITIVOS, YA SEA UNA ACCIÓN POR CONTRATO O AGRAVIO E INDEPENDIENTEMENTE DE LA TEORÍA DE LA RESPONSABILIDAD, INCLUSO SI UNA PARTE O SUS AFILIADOS HAYAN SIDO ADVERTIDO DE LA POSIBILIDAD DE DICHOS DAÑOS O SI UNA PARTE O SUS AFILIADOS HAYAN SIDO EL RECURSO DE LO CONTRARIO FALLA EN SU PROPÓSITO ESENCIAL. LA EXENCIÓN DE RESPONSABILIDAD ANTERIOR NO SE APLICARÁ EN LA MEDIDA EN QUE LO PROHÍBA LA LEY."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "124-aplicabilidad-de-las-limitaciones",
+      children: "12.4 Aplicabilidad de las Limitaciones"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "LAS LIMITACIONES DE RESPONSABILIDAD Y EXCLUSIONES DE DAÑOS EN LAS SECCIONES 12.2 Y 12.3 SE APLICARÁN: (i) EN LA MEDIDA MÁXIMA PERMITIDA POR LA LEY APLICABLE Y SIN PERJUICIO DE CUALQUIER COSA EN CONTRARIO EN ESTOS TÉRMINOS O EN OTRO LUGAR; (ii) A TODOS LOS RECLAMOS EN CONJUNTO QUE SURJAN BAJO O SE RELACIONEN CON ESTOS TÉRMINOS O EL ASUNTO DE ESTOS TÉRMINOS; (iii) INDEPENDIENTEMENTE DE LA TEORÍA LEGAL O EQUITATIVA BAJO LA CUAL SURJA EL RECLAMO, INCLUIDO EL INCUMPLIMIENTO DE CONTRATO, AGRAVIO (INCLUIDA LA NEGLIGENCIA), INDEMNIZACIÓN, RESPONSABILIDAD ESTRICTA O DE OTRO MODO; (iv) INDEPENDIENTEMENTE DE SI FINTESK HA SIDO ADVERTIDO DE LA POSIBILIDAD O PROBABILIDAD DE TALES DAÑOS; Y (v) INDEPENDIENTEMENTE DE SI LOS RECURSOS DISPONIBLES BAJO ESTOS TÉRMINOS FALLAN EN SU PROPÓSITO ESENCIAL."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "125-reconocimiento-de-asignación-de-riesgo",
+      children: "12.5 Reconocimiento de Asignación de Riesgo"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "LA RENUNCIA DE GARANTÍAS Y LAS LIMITACIONES DE RESPONSABILIDAD CONTENIDAS EN ESTOS TÉRMINOS SON PARTES FUNDAMENTALES DE LA BASE DEL ACUERDO DE FINTESK EN VIRTUD DEL PRESENTE, Y EL CLIENTE RECONOCE QUE DICHAS DISPOSICIONES REPRESENTAN UNA ASIGNACIÓN RAZONABLE DE RIESGO. Dado que algunas jurisdicciones no permiten ciertas limitaciones o exclusiones de garantías o responsabilidad, algunas o todas las limitaciones y exclusiones establecidas en esta Sección 12 pueden considerarse inaplicables según se apliquen a las Partes del Cliente. En tales casos, la responsabilidad de FINTESK se limitará en la mayor medida permitida por la ley aplicable."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
-      id: "13-terminaciónsuspensión",
+      id: "13-terminación--suspensión",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "13. TERMINACIÓN/SUSPENSIÓN"
+        children: "13. TERMINACIÓN / SUSPENSIÓN"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "131-por-conveniencia",
@@ -1001,92 +1125,58 @@ function _createMdxContent(props) {
         children: "13.1 Por conveniencia"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Estos Términos y/o el acceso del Cliente a los Servicios de Fintesk pueden rescindirse por conveniencia en las siguientes situaciones;"
+      children: "Estos Términos y el acceso del Cliente a los Servicios de Fintesk pueden rescindirse por conveniencia en las siguientes situaciones:"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ol, {
-      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: ["por el Cliente en cualquier momento:", "\n", (0,jsx_runtime.jsxs)(_components.ul, {
-          children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "(i) haciendo clic en el enlace de cancelación en el Sitio web,"
-          }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "(ii) revocando el acuerdo de facturación en su perfil de PayPal, si el Cliente está pagando el Servicio de Fintesk con una cuenta de PayPal; o"
-          }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "(iii) por medios acordados entre el Cliente y el Revendedor, si el Cliente paga el Servicio de Fintesk a través de un Revendedor;"
-          }), "\n"]
-        }), "\n"]
+      children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "por el Cliente en cualquier momento: (i) haciendo clic en el enlace de cancelación en los Servicios de Fintesk, (ii) revocando el acuerdo de facturación en su perfil de PayPal, si el Cliente está pagando por el Servicio de Fintesk con una cuenta de PayPal; o (iii) por medio de un acuerdo entre el Cliente y el Revendedor, si el Cliente está pagando por el Servicio de Fintesk a través de un Revendedor; siempre que, sin embargo, dicha terminación no sea efectiva hasta la próxima Fecha de Renovación;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "por Fintesk tras la decisión de finalizar la provisión de cualquier parte de los Servicios de Fintesk, cualquier Característica y/o cerrar cualquier parte de la Plataforma;"
+        children: "por Fintesk efectivo en la próxima Fecha de Renovación;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "por Fintesk en cualquier etapa y por cualquier motivo, siempre que Fintesk proporcione un reembolso prorrateado de cualquier Tarifa no utilizada por el resto del Plazo; o"
+        children: "por Fintesk en cualquier etapa y por cualquier motivo, siempre que Fintesk proporcione un reembolso prorrateado de cualquier Tarifa de Suscripción prepaga no utilizada por el resto del Término de Suscripción; o"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "inmediatamente por cualquiera de las partes, si se inicia un procedimiento de liquidación o insolvencia de la otra parte o se concluye un arreglo negociado con los acreedores de la otra parte o se realiza una cesión en nombre de la otra parte en beneficio de los acreedores."
+        children: "inmediatamente por cualquiera de las partes, si se inician procedimientos para la liquidación o insolvencia de la otra parte o se concluye un acuerdo negociado con los acreedores de la otra parte o se realiza una cesión en nombre de la otra parte en beneficio de los acreedores."
       }), "\n"]
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "132-por-defecto",
-      children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "13.2 Por defecto"
-      })
+      id: "132-por-incumplimiento",
+      children: "13.2 Por Incumplimiento"
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Estos Términos y/o el acceso del Cliente a los Servicios de Fintesk pueden rescindirse por incumplimiento mediante notificación por escrito a la otra parte como se indica en la Sección 15.6 “Aviso”:"
+      children: "Estos Términos y el acceso del Cliente a los Servicios de Fintesk pueden rescindirse por incumplimiento tras notificación por escrito a la otra parte de acuerdo con la Sección [ASUMIR NÚMERO DE SECCIÓN DE AVISOS] (\"Aviso\"):"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ol, {
       children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "por cualquiera de las partes en caso de incumplimiento de estos Términos por la otra parte, si el incumplimiento no se ha subsanado dentro de los 30 días posteriores a la recepción de un aviso de la parte que no incumple;"
+        children: "por cualquiera de las partes si la otra parte incumple estos Términos y no subsana el incumplimiento dentro de los 30 días posteriores a la recepción de un aviso que especifique el incumplimiento con un detalle razonable;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "inmediatamente por cualquiera de las partes si la otra parte incumple sus obligaciones, según corresponda en virtud de las Secciones 4 “Restricciones”, 7 “Datos del cliente/Información confidencial”, 9 “Derechos de propiedad intelectual” o 11 “Indemnización”; o"
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: ["por Fintesk con efecto inmediato si:", "\n", (0,jsx_runtime.jsxs)(_components.ul, {
-          children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "(i) se sospecha que el uso de los Servicios de Fintesk por parte del Cliente, a exclusivo criterio de Fintesk, es una actividad ilegal,"
-          }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "(ii) las solicitudes realizadas por las fuerzas del orden público, una orden judicial u otras agencias gubernamentales para dicha terminación, o"
-          }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "(iii) si el uso que hace el Cliente de los Servicios de Fintesk pone en peligro la propiedad de otros, el Sitio web o la Plataforma."
-          }), "\n"]
-        }), "\n"]
+        children: "inmediatamente por Fintesk si el Cliente incumple sus obligaciones bajo la Sección 4 \"Restricciones\", 7 \"Datos del Cliente/Información Sensible\", 9 \"Derechos de Propiedad Intelectual\" o 11 \"Indemnización\"; o"
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "por Fintesk con efecto inmediato si: (i) se sospecha, a la entera discreción de Fintesk, que el uso de los Servicios de Fintesk por parte del Cliente es una actividad ilegal, (ii) solicitudes realizadas por las fuerzas del orden, orden judicial u otras agencias gubernamentales para dicha terminación, o (iii) si el uso de los Servicios de Fintesk por parte del Cliente pone en peligro la propiedad de otros, el sitio web o la Plataforma."
       }), "\n"]
-    }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
-      id: "133-efecto-de-la-rescisión",
-      children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "13.3 Efecto de la rescisión"
-      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "133-efecto-de-la-terminación",
+      children: "13.3 Efecto de la Terminación"
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Tras la rescisión de estos Términos y/o el acceso del Cliente a los Servicios de Fintesk por cualquier motivo:"
+      children: "Tras la terminación de estos Términos por cualquier motivo:"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ol, {
       children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Fintesk desactivará y eliminará de forma permanente la Cuenta y todos los Datos del Cliente en los Servicios de Fintesk dentro de los 6 meses posteriores a la fecha de vigencia de la rescisión de estos Términos y/o el acceso del Cliente a los Servicios de Fintesk. Si el Cliente ha solicitado específicamente una eliminación anterior de la Cuenta y todos los Datos del Cliente, Fintesk cumplirá con dicha solicitud en el plazo de 1 mes a partir de la recepción de dicha solicitud."
+        children: "Fintesk desactivará y eliminará permanentemente la Cuenta y todos los Datos del Cliente en los Servicios de Fintesk dentro de los 180 días posteriores a la fecha efectiva de terminación de estos Términos y/o el acceso del Cliente a los Servicios de Fintesk. Si el Cliente solicita específicamente una eliminación anterior de la Cuenta y todos los Datos del Cliente, Fintesk cumplirá con la solicitud dentro de 1 mes de su recepción."
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: ["El cliente debe:", "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+        children: ["El Cliente debe:", "\n", (0,jsx_runtime.jsxs)(_components.ul, {
           children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "dejar de usar y evitar el uso posterior de los Servicios de Fintesk, incluida, entre otras, la Plataforma;"
+            children: "dejar de usar y evitar el uso posterior de los Servicios de Fintesk;"
           }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "pagar los montos adeudados a Fintesk en virtud de estos Términos; y"
+            children: "pagar cualquier monto adeudado a Fintesk bajo estos Términos; y"
           }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-            children: "liberar cualquier responsabilidad incurrida por el Cliente bajo estos Términos antes de la terminación."
+            children: "descargar cualquier responsabilidad incurrida por el Cliente bajo estos Términos antes de la terminación."
           }), "\n"]
         }), "\n"]
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Salvo que se establezca lo contrario en el presente, en ningún caso el Cliente recibirá un reembolso de las Tarifas pagadas por adelantado en virtud del presente."
+        children: "Salvo que se establezca lo contrario en el presente, en ningún caso el Cliente recibirá un reembolso de ninguna Tarifa de Suscripción prepaga en virtud del presente."
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Las siguientes disposiciones sobrevivirán a la terminación de estos Términos: Secciones 1, 2, 4, 6, 7-9, 11, 12, 14 y 15."
+        children: "Las siguientes disposiciones sobrevivirán a la terminación de estos Términos: Secciones 1, 4, 6, 7, 8, 9, 10, 11, 12 y las secciones posteriores de Disposiciones Generales."
       }), "\n"]
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "134-suspensión",
-      children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "13.4 Suspensión"
-      })
+      children: "13.4 Suspensión"
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk tiene derecho a suspender el acceso a la totalidad o parte del Servicio de Fintesk o una Cuenta, incluida la eliminación de Contenido, en cualquier momento y durante cualquier período de tiempo, por:"
-    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "(i) incumplimiento o sospecha de incumplimiento de estos Términos,"
-    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "(ii) obligaciones legales"
-    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "(iii) el uso de ancho de banda por parte del Cliente o sus Usuarios del Servicio de Fintesk, cualquier Característica o funcionalidad sea significativamente excesivo en relación con otros usuarios del Servicio de Fintesk, o para proteger la integridad, operatividad y seguridad del Servicio de Fintesk, efectivo inmediatamente, con o sin previo aviso."
-    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "A menos que lo prohíba la ley o un proceso legal, o para evitar daños inminentes al Servicio de Fintesk o a cualquier tercero, Fintesk generalmente proporciona un aviso en forma de banner o correo electrónico antes de dicha suspensión."
-    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk, a su discreción y de buena fe, adaptará cualquier suspensión según sea necesario para preservar la integridad, la operatividad y la seguridad del Servicio de Fintesk."
-    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Para cualquier suspensión de este tipo, Fintesk tomará la determinación exclusiva en cuanto a cualquier crédito o reembolso de Tarifas prepagas por parte del Cliente."
+      children: "Fintesk tiene derecho a suspender el acceso a todo o parte del Servicio de Fintesk o una Cuenta, incluida la eliminación de contenido, en cualquier momento, con o sin aviso, y por cualquier período de tiempo, si: Fintesk determina que (i) existe una amenaza o ataque a cualquiera de los Servicios de Fintesk; (ii) el uso de los Servicios de Fintesk por parte del Cliente o de cualquier Usuario interrumpe o representa un riesgo de seguridad para los Servicios de Fintesk o para cualquier otro cliente o proveedor de Fintesk; (iii) el Cliente o cualquier Usuario está utilizando los Servicios de Fintesk para actividades fraudulentas o ilegales; (iv) sujeto a la ley aplicable, el Cliente ha dejado de continuar su negocio en el curso ordinario, ha realizado una cesión en beneficio de los acreedores o una disposición similar de sus activos, o se ha convertido en objeto de cualquier quiebra, reorganización, liquidación, disolución o procedimiento similar; (v) la provisión de los Servicios de Fintesk por parte de Fintesk al Cliente o a cualquier Usuario está prohibida por la ley aplicable; (vi) el Cliente está, o Fintesk sospecha razonablemente que está, incumpliendo estos Términos; o (vii) el uso por parte del Cliente o sus Usuarios del Servicio de Fintesk es excesivo en relación con otros usuarios del Servicio de Fintesk, (viii) para proteger la integridad, operatividad y seguridad del Servicio de Fintesk (colectivamente, una \"Suspensión del Servicio\"). A menos que lo prohíba la ley o un proceso legal o para evitar un daño inminente al Servicio de Fintesk o a cualquier tercero, Fintesk generalmente proporciona un aviso de una Suspensión del Servicio en forma de un banner o correo electrónico en o antes de dicha suspensión. Fintesk, a su discreción y de buena fe, adaptará cualquier suspensión según sea necesario para preservar la integridad, operatividad y seguridad de los Servicios de Fintesk. Fintesk no tendrá obligación de proporcionar al Cliente ningún crédito o reembolso de Tarifas de Suscripción prepagas debido a la suspensión de acuerdo con estos Términos. Fintesk no tendrá ninguna responsabilidad por daños, responsabilidades, pérdidas (incluida cualquier pérdida de datos o ganancias), o cualquier otra consecuencia que el Cliente o cualquier Usuario pueda incurrir como resultado de una Suspensión del Servicio."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "14-entidad-contratante-de-finteskarbitrajeley-aplicable-y-jurisdicción",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -1110,7 +1200,7 @@ function _createMdxContent(props) {
           children: "contacto@fintesk.com"
         })]
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Dirección: Dr. Manuel Barros Borgoño 71, oficina 1105."
+        children: "Dirección: Dr Manuel Barros Borgoño 71, oficina 1105."
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "Providencia, Santiago, Chile."
       }), "\n"]
@@ -1126,11 +1216,9 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "En caso de que no sea posible un arreglo amistoso entre las partes, la disputa se resolverá definitivamente mediante arbitraje como se designa en el presente, sujeto a los términos y condiciones que se establecen a continuación."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "La Convención de las Naciones Unidas sobre Contratos para la Venta Internacional de Mercaderías (Convención de Viena de 1980) no se aplicará a estos Términos."
-    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Cualquier cuestión relacionada con estos Términos que no esté expresa o implícitamente resuelta por las disposiciones contenidas en estos Términos se regirá e interpretará de conformidad con lo siguiente:"
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Para Clientes a los que no se hace referencia específica en estos Términos, todas las disputas o controversias que surjan de o en relación con los Términos, incluida cualquier pregunta sobre su existencia, validez o rescisión, será resuelta bajo el domicilio común la Ciudad de Santiago y donde tanto el Cliente como Fintesk concuerdan en someterse a las autoridades judiciales que la ley determine como competentes para resolver la controversia que se presente entre las partes, de la forma y bajo los parámetros establecidos en la legislación correspondiente."
+      children: "Para Clientes a los que no se hace referencia específica en estos Términos, todas las disputas o controversias que surjan de o en relación con los Términos, incluida cualquier pregunta sobre su existencia, validez o rescisión, será resuelta bajo el domicilio común la Ciudad de Santiago y donde tanto el Cliente como Fintesk concuerdan en someterse a las autoridades judiciales que la ley determine como competentes para resolver la controversia que se presente entre las partes, de la forma y bajo los parámetros establecidos en la legislación correspondiente."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "El arbitraje se iniciará mediante una solicitud de arbitraje de cualquiera de las partes, entregada a la otra parte."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
@@ -1198,9 +1286,22 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Salvo que se disponga lo contrario en el presente, ninguna modificación, enmienda o renuncia a ninguna disposición de estos Términos será efectiva a menos que se haga por escrito y esté firmada por la parte contra la cual se hace valer la modificación, enmienda o renuncia."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "154-cesión",
+      id: "154-modificaciones",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "15.4 Cesión"
+        children: "15.4 Modificaciones"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Fintesk se reserva el derecho, a su exclusivo criterio, de cambiar, modificar, agregar o eliminar cualquier parte de estos Términos de vez en cuando. La notificación de dichas modificaciones se proporcionará de manera clara y destacada en o a través de la Plataforma o los Servicios de Fintesk, o mediante un aviso directo por correo electrónico."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Las modificaciones a estos Términos entrarán en vigor lo antes posible entre (i) la próxima Fecha de Renovación posterior a la publicación, o (ii) treinta (30) días después de la publicación (la \"Fecha Modificada\")."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Si el Cliente no desea estar obligado por las modificaciones, entonces el Cliente debe cancelar antes de la Fecha Modificada de acuerdo con la Sección 13 (TERMINACIÓN/SUSPENSIÓN)."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "El uso continuo por parte del Cliente de los Servicios de Fintesk después de la Fecha Modificada constituye su aceptación incondicional de los Términos modificados."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "155-cesión",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "15.5 Cesión"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "El cliente no puede, directa o indirectamente, en su totalidad o en parte, por ministerio de la ley o de otro modo, ceder o transferir estos Términos o delegar cualquiera de sus derechos y/u obligaciones bajo estos Términos sin el consentimiento previo por escrito de Fintesk."
@@ -1217,16 +1318,16 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Fintesk puede asignar o transferir libremente estos Términos o delegar cualquiera de sus derechos y/u obligaciones en virtud de estos Términos sin restricciones."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "155-no-renuncia",
+      id: "156-no-renuncia",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "15.5 No renuncia"
+        children: "15.6 No renuncia"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "El hecho de que cualquiera de las partes no ejerza o haga cumplir cualquier disposición o cualquiera de sus derechos en virtud de estos Términos no se considerará una renuncia a la aplicación futura de esa o cualquier otra disposición o derecho."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
-      id: "156-avisos",
+      id: "157-avisos",
       children: (0,jsx_runtime.jsx)(_components.strong, {
-        children: "15.6 Avisos"
+        children: "15.7 Avisos"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Salvo que se especifique lo contrario en los Términos, todos los avisos relacionados con los Términos se harán por escrito y entrarán en vigencia a partir de"
@@ -1242,6 +1343,13 @@ function _createMdxContent(props) {
       children: "Los avisos relacionados con la facturación al Cliente se enviarán al contacto de facturación correspondiente designado por el Cliente por correo electrónico."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Todos los demás avisos al Cliente se dirigirán al administrador del sistema del Cliente correspondiente designado por el Cliente."
+    }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
+      id: "157-fuerza-mayor",
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "15.7 Fuerza Mayor"
+      })
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "En ningún caso Fintesk será responsable, o se considerará que ha incumplido estos Términos, por cualquier falla o demora en el cumplimiento de sus obligaciones bajo estos Términos, si y en la medida en que dicha falla o demora sea causada por cualquier circunstancia fuera del control razonable de Fintesk, incluidos, entre otros, casos fortuitos, inundaciones, incendios, terremotos, explosiones, guerras, terrorismo, invasiones, ataques cibernéticos, disturbios u otros disturbios civiles, huelgas, paros laborales o ralentizaciones u otros disturbios industriales, o aprobación de leyes o cualquier acción tomada por una autoridad gubernamental o pública, incluida la imposición de un embargo."
     })]
   });
 }

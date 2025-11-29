@@ -15,7 +15,7 @@ __webpack_require__.d(__webpack_exports__, {
 });
 
 ;// CONCATENATED MODULE: ./.docusaurus/docusaurus-plugin-content-docs/default/site-i-18-n-es-docusaurus-plugin-content-docs-current-privacy-privacy-md-274.json
-var site_i_18_n_es_docusaurus_plugin_content_docs_current_privacy_privacy_md_274_namespaceObject = JSON.parse('{"id":"privacy/privacy-notice","title":"Aviso de Privacidad – Fintesk","description":"Última actualización: 21 de Agosto de 2023","source":"@site/i18n/es/docusaurus-plugin-content-docs/current/privacy/privacy.md","sourceDirName":"privacy","slug":"/privacy/","permalink":"/es/privacy/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"privacy","permalink":"/es/tags/privacy"}],"version":"current","lastUpdatedBy":"Fabrizzio Andrioli","lastUpdatedAt":1692576000000,"sidebarPosition":1,"frontMatter":{"id":"privacy-notice","title":"Aviso de Privacidad – Fintesk","sidebar_position":1,"tags":["privacy"],"last_update":{"date":"2023-08-21T00:00:00.000Z","author":"Fabrizzio Andrioli"}},"sidebar":"tutorialSidebar","previous":{"title":"Privacy","permalink":"/es/category/privacy"},"next":{"title":"Anexo de Procesamiento de Datos (“DPA”)","permalink":"/es/privacy/dpa"}}')
+var site_i_18_n_es_docusaurus_plugin_content_docs_current_privacy_privacy_md_274_namespaceObject = JSON.parse('{"id":"privacy/privacy-notice","title":"Aviso de Privacidad – Fintesk","description":"Última actualización: 29 de Noviembre de 2025","source":"@site/i18n/es/docusaurus-plugin-content-docs/current/privacy/privacy.md","sourceDirName":"privacy","slug":"/privacy/","permalink":"/es/privacy/","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"privacy","permalink":"/es/tags/privacy"}],"version":"current","lastUpdatedBy":"Fabrizzio Andrioli","lastUpdatedAt":1764374400000,"sidebarPosition":1,"frontMatter":{"id":"privacy-notice","title":"Aviso de Privacidad – Fintesk","sidebar_position":1,"tags":["privacy"],"last_update":{"date":"2025-11-29T00:00:00.000Z","author":"Fabrizzio Andrioli"}},"sidebar":"tutorialSidebar","previous":{"title":"Privacy","permalink":"/es/category/privacy"},"next":{"title":"Anexo de Procesamiento de Datos (“DPA”)","permalink":"/es/privacy/dpa"}}')
 // EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
 var jsx_runtime = __webpack_require__(74848);
 // EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
@@ -31,7 +31,7 @@ const frontMatter = {
 		'privacy'
 	],
 	last_update: {
-		date: new Date('2023-08-21T00:00:00.000Z'),
+		date: new Date('2025-11-29T00:00:00.000Z'),
 		author: 'Fabrizzio Andrioli'
 	}
 };
@@ -208,9 +208,13 @@ function _createMdxContent(props) {
     children: [(0,jsx_runtime.jsxs)(_components.p, {
       children: [(0,jsx_runtime.jsx)(_components.strong, {
         children: "Última actualización:"
-      }), " 21 de Agosto de 2023"]
+      }), " 29 de Noviembre de 2025"]
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
-      children: ["Bienvenido y gracias por su interés en Fintesk (“Fintesk”, “nosotros” o “nosotros”), ", (0,jsx_runtime.jsx)(_components.a, {
+      children: [(0,jsx_runtime.jsx)(_components.strong, {
+        children: "Aviso Importante:"
+      }), " Este es el documento original redactado en español. Cualquier otra versión disponible en otros idiomas debe considerarse una traducción. En caso de discrepancia, prevalecerá lo establecido en este documento."]
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["Bienvenido y gracias por su interés en Fintesk ( o “nosotros”), nuestro sitio web en ", (0,jsx_runtime.jsx)(_components.a, {
         href: "https://www.fintesk.com?utm_source=fintesk-docs",
         children: "nuestro sitio web"
       }), " (el “Sitio”) y todos los sitios web relacionados, software descargable, aplicaciones móviles (incluidas aplicaciones para tabletas) y otros servicios proporcionados por nosotros y en los que se muestra un enlace a este Aviso de privacidad, y todas las demás comunicaciones con personas a través de medios escritos u orales, como correo electrónico o teléfono (colectivamente, junto con el Sitio, nuestro “Servicio”)."]
@@ -220,44 +224,30 @@ function _createMdxContent(props) {
       children: "Esta Política se incorpora y está sujeta a los Términos de servicio de Fintesk. Los términos en mayúscula utilizados pero no definidos en esta Política tienen el significado que se les otorga en los Términos de servicio de Fintesk."
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
       children: ["Las direcciones de nuestras oficinas, donde se encuentran Fintesk, y nuestras filiales, se pueden encontrar en ", (0,jsx_runtime.jsx)(_components.a, {
-        href: "https://fintesk.com/es/acerca-de-nosotros?utm_source=fintesk-docs",
-        children: "Acerca de Nosotros"
+        href: "https://fintesk.com/es/acerca-de-nosotros/",
+        children: "https://fintesk.com/es/acerca-de-nosotros"
       }), "."]
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "1-definiciones",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "1. Definiciones"
       })
-    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
-      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "“Cliente”"
-        }), " significa un cliente de Fintesk."]
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "“Datos del cliente”"
-        }), " significa datos personales, informes, direcciones y otros archivos, carpetas o documentos en formato electrónico que un Usuario del Servicio almacena dentro del Servicio."]
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "“Datos Personales”"
-        }), " significa cualquier información relativa a una persona física identificada o identificable."]
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "“Área Pública”"
-        }), " significa el área del Sitio a la que pueden acceder tanto los Usuarios como los Visitantes, sin necesidad de iniciar sesión."]
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "“Área Restringida”"
-        }), " significa el área del Sitio a la que solo pueden acceder los Usuarios, y donde el acceso requiere iniciar sesión."]
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "“Usuario”"
-        }), " significa un empleado, agente o representante de un Cliente, que utiliza principalmente las áreas restringidas del Sitio con el fin de acceder al Servicio en tal capacidad."]
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "“Visitante”"
-        }), " significa un individuo que es un Usuario, que utiliza el área pública, pero no tiene acceso a las áreas restringidas del Sitio o Servicio."]
-      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "“Cliente” significa un cliente de Fintesk."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "“Datos del cliente” significa datos personales, informes, direcciones y otros archivos, carpetas o documentos en formato electrónico que un Usuario del Servicio almacena dentro del Servicio."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "“Datos Personales” significa cualquier información relativa a una persona física identificada o identificable."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "“Área Pública” significa el área del Sitio a la que pueden acceder tanto los Usuarios como los Visitantes, sin necesidad de iniciar sesión."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "“Área Restringida” significa el área del Sitio a la que solo pueden acceder los Usuarios, y donde el acceso requiere iniciar sesión."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "“Usuario” significa un empleado, agente o representante de un Cliente, que utiliza principalmente las áreas restringidas del Sitio con el fin de acceder al Servicio en tal capacidad."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "“Visitante” significa un individuo que utiliza el área pública, pero no tiene acceso a las áreas restringidas del Sitio o Servicio."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "“Servicio” significa los Servicios de Fintesk según se definen en los Términos de servicio."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "2-roles-y-responsabilidades",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -268,7 +258,7 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Tenga en cuenta que este Aviso de privacidad no aplica en la medida en que procesemos Datos personales en el rol de un procesador (o en un rol similar, como un “proveedor de servicios” en ciertas jurisdicciones) a nombre de nuestros Clientes, incluido cuando ofrecemos a nuestros Clientes diferentes productos y/o servicios en la nube, a través de los cuales nuestros Clientes (y/o sus afiliados) conectan sus propios sitios web y aplicaciones a nuestra plataforma alojada, venden u ofrecen sus propios productos y/o servicios, envían comunicaciones electrónicas a otras personas o recopilan, usan, comparten o procesan Datos personales a través de nuestros productos y/o servicios en la nube. En tales casos, Fintesk no posee, controla ni dirige el uso de ninguno de los Datos del Cliente almacenados o procesados ​​por un Cliente o Usuario a través del Servicio. Solo el Cliente o los Usuarios tienen derecho a acceder, recuperar y dirigir el uso de dichos Datos del Cliente. El Cliente o el Usuario es el único responsable del tratamiento en virtud de las regulaciones de cualquier Dato del Cliente que contenga Datos Personales."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Para obtener la información de privacidad detallada aplicable a situaciones en las que un Cliente de Fintesk (y/o un afiliado del Cliente) es el controlador que usa los productos y servicios en la nube de Fintesk, comuníquese directamente con el Cliente respectivo. No somos responsables de las prácticas de privacidad o seguridad de datos de nuestros Clientes, que pueden diferir de las establecidas en este Aviso de privacidad. Si no se indica lo contrario en este Aviso de privacidad o en un documento adicional, procesamos los Datos Personales en el rol de un procesador o proveedor de servicios a nombre de un Cliente (y/o sus afiliados), donde somos el controlador responsable de los Datos Personales."
+      children: "Para obtener la información de privacidad detallada aplicable a situaciones en las que un Cliente de Fintesk (y/o un afiliado del Cliente) es el controlador que usa los productos y servicios en la nube de Fintesk, comuníquese directamente con el Cliente respectivo. No somos responsables de las prácticas de privacidad o seguridad de datos de nuestros Clientes, que pueden diferir de las establecidas en este Aviso de privacidad. Si no se indica lo contrario en este Aviso de privacidad o en un documento adicional, procesamos los Datos Personales en el rol de un procesador o proveedor de servicios a nombre de un Cliente (y/o sus afiliados), donde somos el controlador responsable de los Datos Personales.\nCuando Fintesk actúa en rol de procesador/proveedor de servicios, la relación con el Cliente (Responsable del Tratamiento) se regirá, además de este Aviso, por un Acuerdo de Tratamiento de Datos (DPA) por escrito que detalla las instrucciones específicas del Cliente, la seguridad y las obligaciones de confidencialidad y asistencia."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "Si tus Datos Personales nos han sido enviados por o en nombre de un Cliente de Fintesk y desea ejercer cualquier derecho que pueda tener en virtud de las leyes de protección de datos aplicables, consulte directamente con el Cliente correspondiente."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
@@ -276,7 +266,7 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "A excepción de lo dispuesto en este Aviso de privacidad, Fintesk no causa que los Datos del cliente que contienen Datos Personales almacenados en relación con los Servicios se transfieran o pongan a disposición de terceros de otro modo, excepto a los Sub-procesadores de terceros que pueden procesar dichos datos en nombre de Fintesk en conexión con la prestación de Servicios a los Clientes por parte de Fintesk."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk no es responsable del contenido de los Datos personales incluidos en los Datos del cliente u otra información almacenada en sus servidores (o los servidores de sus subprocesadores) a discreción del Cliente o Usuario, ni Fintesk es responsable de la forma en que el Cliente o El usuario recopila, maneja la divulgación, distribuye o procesa dicha información."
+      children: "Fintesk no es responsable del contenido de los Datos personales incluidos en los Datos del cliente u otra información almacenada en sus servidores (o los servidores de sus subprocesadores) a discreción del Cliente o Usuario, ni Fintesk es responsable de la forma en que el Cliente o El usuario recopila, maneja la divulgación, distribuye o procesa dicha información.\nComo Responsable y Encargado del Tratamiento, Fintesk se compromete a aplicar el Principio de Responsabilidad (Accountability), manteniendo y demostrando el cumplimiento de la normativa de protección de datos a través de registros de actividades, evaluaciones de impacto y la implementación de las medidas de seguridad técnicas y organizacionales apropiadas."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "3-la-información-que-recopilamos",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -293,7 +283,7 @@ function _createMdxContent(props) {
       children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
           children: "Registro de cuenta:"
-        }), " cuando se registra para obtener una cuenta para acceder a uno o más de nuestros servicios, le solicitamos información como su nombre, número de contacto, dirección de correo electrónico, nombre de la empresa y país para completar el proceso de registro de cuenta. También puede proporcionarnos más información, como su foto, zona horaria e idioma, pero no requerimos esa información para registrarse en una cuenta."]
+        }), " cuando se registra para obtener una cuenta para acceder a uno o más de nuestros servicios, le solicitamos información como su nombre, número de contacto, dirección de correo electrónico, nombre de la empresa y país para completar el proceso de registro de cuenta. También puede proporcionarnos más información, como su foto, zona horaria e idioma, número de identificación fiscal, pero no requerimos esa información para registrarse en una cuenta."]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
           children: "Registros de eventos y otros envíos de formularios:"
@@ -343,28 +333,38 @@ function _createMdxContent(props) {
       })
     }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
       children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Registros de usuarios mediante proveedores de servicios de autenticación federados:"
-        }), " puedes iniciar sesión en Fintesk vía proveedores de servicios de autenticación compatibles, como LinkedIn, Microsoft y Google. Estos servicios autenticarán su identidad y le darán la opción de compartir cierta información personal con nosotros, como su nombre y dirección de correo electrónico. Debe verificar su configuración de privacidad en cada Servicio Integrado para comprender qué información ese Servicio Integrado pone a nuestra disposición y realizar los cambios necesarios. Revise cuidadosamente los términos de uso y las políticas de privacidad de cada Servicio Integrado antes de usar sus servicios y conectarse a nuestro Servicio."]
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Registros de usuarios mediante proveedores de servicios de autenticación federados:"
+          }), " puedes iniciar sesión en Fintesk vía proveedores de servicios de autenticación compatibles, como LinkedIn, Microsoft y Google. Estos servicios autenticarán su identidad y le darán la opción de compartir cierta información personal con nosotros, como su nombre y dirección de correo electrónico. Debe verificar su configuración de privacidad en cada Servicio Integrado para comprender qué información ese Servicio Integrado pone a nuestra disposición y realizar los cambios necesarios. Revise cuidadosamente los términos de uso y las políticas de privacidad de cada Servicio Integrado antes de usar sus servicios y conectarse a nuestro Servicio."]
+        }), "\n"]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Referidos:"
-        }), " si alguien le ha referido cualquiera de nuestros productos o servicios a través de cualquiera de nuestros programas de referencia, esa persona puede habernos proporcionado su nombre, dirección de correo electrónico y otra información personal. Puede ponerse en contacto con nosotros en ", (0,jsx_runtime.jsx)(_components.a, {
-          href: "mailto:privacidad@fintesk.com",
-          children: "privacidad@fintesk.com"
-        }), " para solicitar que eliminemos su información de nuestra base de datos. Si nos brinda información sobre otra persona, o si otra persona nos brinda su información, solo utilizaremos esa información por el motivo específico por el cual nos la proporcionó."]
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Recomendaciones"
+          }), ": si alguien le ha recomendado cualquiera de nuestros productos o servicios a través de cualquiera de nuestros programas de referencia, esa persona puede habernos proporcionado su nombre, dirección de correo electrónico y otra información personal. Puede ponerse en contacto con nosotros en ", (0,jsx_runtime.jsx)(_components.a, {
+            href: "mailto:privacidad@fintesk.com",
+            children: "privacidad@fintesk.com"
+          }), " para solicitar que eliminemos su información de nuestra base de datos. Si nos brinda información sobre otra persona, o si otra persona nos brinda su información, solo utilizaremos esa información por el motivo específico por el cual nos la proporcionó."]
+        }), "\n"]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Información de nuestros socios revendedores y proveedores de servicios:"
-        }), " si se comunica con cualquiera de nuestros socios revendedores o les expresa interés en cualquiera de nuestros productos o servicios, el socio revendedor puede pasar su nombre, dirección de correo electrónico, nombre de la empresa y otra información a Fintesk. Si te registras o asistes a un evento patrocinado por Fintesk, el organizador del evento puede compartir tu información con nosotros. Fintesk también puede recibir información sobre usted de sitios de reseñas, si comenta alguna reseña de nuestros productos y servicios, y de otros proveedores de servicios externos que contratamos para comercializar nuestros productos y servicios."]
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Información de nuestros socios revendedores y proveedores de servicios:"
+          }), " si se comunica con cualquiera de nuestros socios revendedores o les expresa interés en cualquiera de nuestros productos o servicios, el socio revendedor puede pasar su nombre, dirección de correo electrónico, nombre de la empresa y otra información a Fintesk. Si te registras o asistes a un evento patrocinado por Fintesk, el organizador del evento puede compartir tu información con nosotros. Fintesk también puede recibir información sobre usted de sitios de reseñas, si comenta alguna reseña de nuestros productos y servicios, y de otros proveedores de servicios externos que contratamos para comercializar nuestros productos y servicios."]
+        }), "\n"]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Información que recopilamos y procesamos cuando integra el Servicio con terceros:"
-        }), " puede conectar integraciones de terceros a su cuenta de Fintesk, lo que puede solicitar ciertos permisos para acceder a datos o enviar información hacia o desde su cuenta de Fintesk. Es su responsabilidad revisar cualquier integración de terceros que autorice. Podemos recopilar información sobre qué tipos de integraciones usas en tu cuenta de Fintesk. Cualquier permiso(s) otorgado(s) por usted, otorga a estos terceros el acceso a sus datos, lo que puede incluir (pero no se limita a) otorgar acceso a aplicaciones de terceros para ver, almacenar y modificar los datos de su cuenta de Fintesk. No somos responsables de las prácticas de integraciones de terceros, así que revise cuidadosamente los permisos que otorga a las aplicaciones de terceros."]
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Información que recopilamos y procesamos cuando integra el Servicio con terceros:"
+          }), " puede conectar integraciones de terceros a su cuenta de Fintesk, lo que puede solicitar ciertos permisos para acceder a datos o enviar información hacia o desde su cuenta de Fintesk. Es su responsabilidad revisar cualquier integración de terceros que autorice. Podemos recopilar información sobre qué tipos de integraciones usas en tu cuenta de Fintesk. Cualquier permiso(s) otorgado(s) por usted, otorga a estos terceros el acceso a sus datos, lo que puede incluir (pero no se limita a) otorgar acceso a aplicaciones de terceros para ver, almacenar y modificar los datos de su cuenta de Fintesk. No somos responsables de las prácticas de integraciones de terceros, así que revise cuidadosamente los permisos que otorga a las aplicaciones de terceros."]
+        }), "\n"]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Información de sitios de redes sociales y otras fuentes disponibles públicamente:"
-        }), " cuando proporciona comentarios o reseñas sobre nuestros productos, interactúa con nosotros en mercados, sitios de reseñas o sitios de redes sociales como Facebook, Twitter, LinkedIn e Instagram a través de publicaciones, comentarios, preguntas y otras interacciones, podemos recopilar dicha información disponible públicamente, incluida la información del perfil, para permitirnos conectarnos con usted, mejorar nuestros productos, comprender mejor las reacciones y los problemas de los usuarios, o reproducir y publicar sus comentarios en nuestros sitios web. Debemos decirle que una vez recopilada, esta información puede permanecer con nosotros incluso si la elimina de estos sitios. Fintesk también puede agregar y actualizar información sobre usted, de otras fuentes disponibles públicamente."]
+        children: ["\n", (0,jsx_runtime.jsxs)(_components.p, {
+          children: [(0,jsx_runtime.jsx)(_components.strong, {
+            children: "Información de sitios de redes sociales y otras fuentes disponibles públicamente:"
+          }), " cuando proporciona comentarios o reseñas sobre nuestros productos, interactúa con nosotros en mercados, sitios de reseñas o sitios de redes sociales como Facebook, X (ex-Twitter), LinkedIn e Instagram a través de publicaciones, comentarios, preguntas y otras interacciones, podemos recopilar dicha información disponible públicamente, incluida la información del perfil, para permitirnos conectarnos con usted, mejorar nuestros productos, comprender mejor las reacciones y los problemas de los usuarios, o reproducir y publicar sus comentarios en nuestros sitios web. Debemos decirle que una vez recopilada, esta información puede permanecer con nosotros incluso si la elimina de estos sitios. Fintesk también puede agregar y actualizar información sobre usted, de otras fuentes disponibles públicamente."]
+        }), "\n"]
       }), "\n"]
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "4-cómo-usamos-la-información-que-recopilamos",
@@ -446,12 +446,12 @@ function _createMdxContent(props) {
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "Satisface un interés legítimo de Fintesk (que no se anula con sus intereses y derechos de protección de datos), como investigación y desarrollo, para brindarle información sobre nuestros productos y servicios que creemos que usted y su organización pueden encontrar útiles, y para proteger nuestros derechos e intereses legales;"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Usted nos da su consentimiento para hacerlo con un propósito específico; o"
+        children: "Usted desea recibir comunicaciones promocionales y ofertas sobre nuevos productos y servicios de Fintesk (Marketing Directo); o"
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "Tenemos que cumplir con una obligación legal."
       }), "\n"]
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Cuando dependamos de intereses legítimos para procesar sus Datos personales, puede oponerse a ese procesamiento como se describe a continuación en la sección de “Tus opciones”. En respuesta a su objeción, dejaremos de procesar su información para los fines correspondientes a menos que tengamos motivos convincentes en las circunstancias o el procesamiento sea necesario en el contexto de reclamaciones legales. Fintesk también puede procesar otra información que constituye sus Datos personales con fines de marketing directo y usted tiene derecho a oponerse al uso de Fintesk de sus Datos personales para este fin en cualquier momento."
+      children: "Cuando dependamos de intereses legítimos para procesar sus Datos personales, puede oponerse a ese procesamiento como se describe a continuación en la sección de “Tus opciones”. En respuesta a su objeción, dejaremos de procesar su información para los fines correspondientes a menos que tengamos motivos convincentes en las circunstancias o el procesamiento sea necesario en el contexto de reclamaciones legales. Fintesk también puede procesar otra información que constituye sus Datos personales con fines de marketing directo y usted tiene derecho a oponerse (Opt-In) al uso de Fintesk de sus Datos personales para este fin en cualquier momento."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "46-límites-adicionales-en-el-uso-de-sus-datos-de-usuario-de-google",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -505,7 +505,7 @@ function _createMdxContent(props) {
         children: "5.4 Comunidades de Fintesk y otro contenido generado por el usuario"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Ponemos a su disposición varios foros comunitarios y materiales de apoyo de autoayuda, así como blogs y otros medios para que usted publique información en nuestros sitios web. Esta información que publica es información disponible públicamente que usted elige divulgar y puede ser leída, recopilada y procesada por otras personas que visitan estos sitios web. A excepción del nombre de usuario (que puede ser su nombre real) y los detalles que elija incluir en su perfil, las categorías de datos divulgados en estas circunstancias dependerán de la información que elija proporcionar. Tus publicaciones y cierta información de perfil pueden permanecer incluso después de cancelar tu cuenta de Fintesk. Le instamos a que considere la sensibilidad de cualquier información que pueda divulgar de esta manera. Corregiremos o eliminaremos cualquier información que haya publicado en los sitios web si así lo solicita, como se describe a continuación en la Sección 10 “Tus opciones”. En algunos casos, es posible que no podamos eliminar su información, en cuyo caso le informaremos si no podemos y por qué."
+      children: "Ponemos a su disposición varios foros comunitarios y materiales de apoyo de autoayuda, así como blogs y otros medios para que usted publique información en nuestros sitios web. Esta información que publica es información disponible públicamente que usted elige divulgar y puede ser leída, recopilada y procesada por otras personas que visitan estos sitios web. A excepción del nombre de usuario (que puede ser su nombre real) y los detalles que elija incluir en su perfil, las categorías de datos divulgados en estas circunstancias dependerán de la información que elija proporcionar. Tus publicaciones y cierta información de perfil pueden permanecer incluso después de cancelar tu cuenta de Fintesk dado que no están directamente relacionadas al servicio. Le instamos a que considere la sensibilidad de cualquier información que pueda divulgar de esta manera. Corregiremos o eliminaremos cualquier información que haya publicado en los sitios web si así lo solicita, como se describe a continuación en la Sección 10 “Tus opciones”. En algunos casos, es posible que no podamos eliminar su información, en cuyo caso le informaremos si no podemos y por qué."
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "55-redes-sociales",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -560,40 +560,34 @@ function _createMdxContent(props) {
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "La información sobre Usuarios y Visitantes, incluidos los Datos personales, puede divulgarse y transferirse de otro modo a un adquirente, sucesor o cesionario como parte de cualquier fusión, adquisición, financiación de deuda, venta de activos o transacción similar, así como en el caso de una insolvencia, quiebra o administración judicial en la que la información se transfiere a uno o más terceros como uno de nuestros activos comerciales y solo si el destinatario de los Datos del usuario o del visitante se compromete con una Política de privacidad que tiene términos sustancialmente consistentes con este Aviso de privacidad."
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["Los Datos del Cliente pueden transferirse física o electrónicamente a un adquirente, sucesor o cesionario como parte de cualquier fusión, adquisición, financiamiento de deuda, venta de activos o transacción similar, así como en caso de insolvencia, quiebra o administración judicial en cuya información se transfiere a uno o más terceros como uno de nuestros activos comerciales, con el único propósito de continuar la operación del Servicio, y solo si el destinatario de los Datos del Cliente se compromete con una Política de privacidad que tiene términos sustancialmente consistentes con este Aviso de Privacidad.\n", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "5.11 Notificación de Incidentes de Seguridad"
+      })]
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Los Datos del Cliente pueden transferirse física o electrónicamente a un adquirente, sucesor o cesionario como parte de cualquier fusión, adquisición, financiamiento de deuda, venta de activos o transacción similar, así como en caso de insolvencia, quiebra o administración judicial en cuya información se transfiere a uno o más terceros como uno de nuestros activos comerciales, con el único propósito de continuar la operación del Servicio, y solo si el destinatario de los Datos del Cliente se compromete con una Política de privacidad que tiene términos sustancialmente consistentes con este Aviso de Privacidad."
+      children: "En caso de una violación de seguridad que afecte la confidencialidad, integridad o disponibilidad de los Datos Personales de un Cliente (Datos del Cliente), Fintesk se compromete a notificar al Cliente (Responsable) en un plazo no superior a 48 horas desde que tenga constancia de la misma, proporcionando toda la información necesaria para que el Cliente pueda cumplir con sus obligaciones legales de notificación."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "6-seguridad-de-los-datos",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "6. Seguridad de los datos"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "En Fintesk, nos tomamos muy en serio la seguridad de los datos. Hemos tomado medidas para implementar medidas de seguridad administrativas, técnicas y físicas apropiadas para evitar el acceso, uso, modificación, divulgación o destrucción no autorizados de la información que nos confía. Sin embargo, ningún sistema de seguridad es perfecto y, debido a la naturaleza inherente de Internet, no podemos garantizar que los datos, incluidos los Datos personales, estén absolutamente a salvo de intrusiones u otros accesos no autorizados por parte de terceros. Usted es responsable de proteger su(s) contraseña(s) y otros factores de autenticación, así como de mantener la seguridad de sus dispositivos. Si cree que sus datos personales se han visto comprometidos, contáctenos como se establece en la sección “Cómo contactarnos”. Si nos enteramos de una violación de los sistemas de seguridad, le informaremos a usted y a las autoridades sobre la ocurrencia de la violación de acuerdo con la ley aplicable."
+      children: "En Fintesk, nos tomamos muy en serio la seguridad de los datos. Hemos tomado medidas para implementar medidas de seguridad administrativas, técnicas y físicas apropiadas para evitar el acceso, uso, modificación, divulgación o destrucción no autorizados de la información que nos confía. Fintesk se compromete a mantener un alto nivel de seguridad, alineado con estándares internacionales como ISO/IEC 27001 para garantizar la confidencialidad, integridad, disponibilidad y resiliencia de los Datos Personales"
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Sin embargo, ningún sistema de seguridad es perfecto y, debido a la naturaleza inherente de Internet, no podemos garantizar que los datos, incluidos los Datos personales, estén absolutamente a salvo de intrusiones u otros accesos no autorizados por parte de terceros."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Usted es responsable de proteger su(s) contraseña(s) y otros factores de autenticación, así como de mantener la seguridad de sus dispositivos. Si cree que sus datos personales se han visto comprometidos, contáctenos como se establece en la sección “Cómo contactarnos”. Si nos enteramos de una violación de los sistemas de seguridad, le informaremos a usted y a las autoridades sobre la ocurrencia de la violación de acuerdo con la ley aplicable."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "7-transferencias-internacionales-de-datos",
       children: (0,jsx_runtime.jsx)(_components.strong, {
         children: "7. Transferencias internacionales de datos"
       })
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Fintesk puede transferir sus Datos personales a países distintos de aquel en el que vive, incluido transferencias a los Estados Unidos. En la medida en que los Datos personales se transfieran al exterior, Fintesk garantizará el cumplimiento de los requisitos de las leyes aplicables en la jurisdicción respectiva de acuerdo con las obligaciones de Fintesk."
+      children: "Fintesk puede transferir sus Datos personales a países distintos de aquel en el que vive, incluido transferencias a los Estados Unidos o Irlanda. En la medida en que los Datos personales se transfieran al exterior, Fintesk garantizará el cumplimiento de los requisitos de las leyes aplicables en la jurisdicción respectiva de acuerdo con las obligaciones de Fintesk. Si la transferencia se realiza a un país que no cuenta con una declaración de adecuación de la Agencia Chilena, Fintesk garantizará que se apliquen salvaguardas adecuadas, como la firma de Cláusulas Contractuales Tipo (SCC) o mecanismos de certificación equivalentes."
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
       children: "En particular, ofrecemos las siguientes garantías si Fintesk transfiere Datos personales desde jurisdicciones con diferentes leyes de protección de datos:"
-    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
-      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Cláusulas contractuales estándar de la Comisión Europea."
-        }), " Fintesk utiliza cláusulas contractuales estándar aprobadas por la Comisión Europea (y las cláusulas contractuales estándar equivalentes para el Reino Unido cuando corresponda) para las transferencias a países que no están sujetos a una decisión de adecuación de la Comisión Europea o su legislatura o regulador local."]
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Privacy Shield;"
-        }), " Fintesk participa y cumple con la EU-U.S. Privacy Shield Framework es establecido por el Departamento de Comercio de EE. UU. con respecto a la recopilación, el uso y la retención de información personal de personas en la Unión Europea. De conformidad con los Principios del Privacy Shield Framework , Fintesk se compromete a resolver las quejas sobre nuestra recopilación o uso de su información personal. Las personas de la Unión Europea que tengan consultas o quejas sobre nuestra política de protección de la privacidad deben comunicarse primero con el responsable de protección de datos de Fintesk en ", (0,jsx_runtime.jsx)(_components.a, {
-          href: "mailto:privacidad@fintesk.com",
-          children: "privacidad@fintesk.com"
-        }), ". Fintesk se ha comprometido además a cooperar con el panel establecido por las autoridades de protección de datos (DPA) de la Unión Europea en relación con las quejas no resueltas del Privacy Shield Framework relacionadas con datos de recursos humanos y datos que no son de recursos humanos transferidos desde la Unión Europea. En cualquier asunto relacionado con la Unión Europea-EE.UU Privacy Shield Framework, Fintesk está sujeto a los poderes de investigación y ejecución de la Comisión Federal de Comercio (FTC). Bajo ciertas condiciones, descritas más detalladamente en el sitio web de Privacy Shield en ", (0,jsx_runtime.jsx)(_components.a, {
-          href: "https://www.privacyshield.gov/article?id=How-to-Submit-a-Complaint",
-          children: "How-to-Submit-a-Complaint"
-        }), ", puede invocar el arbitraje vinculante cuando se hayan agotado otros procedimientos de resolución de disputas."]
-      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Cláusulas contractuales estándar de la Comisión Europea. Fintesk utiliza cláusulas contractuales estándar aprobadas por la Comisión Europea (y las cláusulas contractuales estándar equivalentes para el Reino Unido cuando corresponda) para las transferencias a países que no están sujetos a una decisión de adecuación de la Comisión Europea o su legislatura o regulador local."
     }), "\n", (0,jsx_runtime.jsx)(_components.h2, {
       id: "8-privacidad-de-menores-y-niños",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -634,50 +628,51 @@ function _createMdxContent(props) {
     }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
       children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Derecho de acceso:"
-        }), " tiene derecho a saber qué datos tenemos sobre usted (si los hay)."]
+          children: "Acceso:"
+        }), " Usted tiene derecho a solicitar y obtener de Fintesk (cuando actúe como Responsable) confirmación sobre si sus Datos Personales están siendo tratados, y de ser así, a recibir una copia de estos datos, así como información sobre los fines del tratamiento, las categorías de datos tratados y los destinatarios a quienes se han comunicado."]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Derecho a la rectificación de datos:"
-        }), " tiene derecho a solicitar la corrección de sus Datos personales en caso de que sean inexactos o incompletos."]
+          children: "Rectificación:"
+        }), " Usted tiene derecho a solicitar la corrección de aquellos Datos Personales que resulten ser inexactos o incompletos. En el caso de los Datos del Cliente, esta corrección deberá ser solicitada a su Cliente/Empleador."]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Derecho a la eliminación de datos:"
-        }), " tiene derecho, bajo ciertas condiciones, a solicitar la eliminación de sus Datos personales, incluso en situaciones en las que el procesamiento de sus Datos personales ya no sea necesario para los fines para los que fueron recopilados, o si el procesamiento de sus Datos personales se basaron en su consentimiento y desea retirar su consentimiento, y no hay otros motivos para procesar sus Datos personales."]
+          children: "Cancelación o Supresión:"
+        }), " Usted tiene derecho a solicitar la eliminación de sus Datos Personales (derecho al olvido) cuando, entre otras causas, los datos ya no sean necesarios para los fines para los que fueron recopilados, o cuando retire el consentimiento y no exista otra base legal que justifique su tratamiento. (Reflejado en Fintesk al solicitar la eliminación de testimonios o de datos de referidos en la Sección 3.4 y 5.1)."]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Derecho a la restricción del procesamiento:"
-        }), " también puede tener derecho a solicitar que se restrinja el uso de su información en ciertas circunstancias, como cuando se ha opuesto a que usemos sus datos, pero necesitamos verificar si tenemos motivos legítimos para el uso de ellos."]
+          children: "Oposición:"
+        }), " Usted tiene derecho a oponerse al tratamiento de sus Datos Personales en cualquier momento, especialmente cuando el tratamiento tenga por objeto el Marketing Directo o se base en un Interés Legítimo de Fintesk (Reflejado en la Sección 4.5). En respuesta a su objeción, Fintesk cesará el tratamiento de su información para los fines pertinentes, a menos que existan motivos legítimos imperiosos o sea necesario en el contexto de reclamos legales."]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Derecho a la portabilidad de datos:"
-        }), " tiene derecho a transferir su información a un tercero en un formato estructurado, de uso común y legible por máquina, en circunstancias en las que la información se procesa con su consentimiento o por medios automatizados."]
+          children: "Portabilidad:"
+        }), " Usted tiene derecho a solicitar recibir los Datos Personales que haya facilitado directamente a Fintesk (cuando Fintesk sea el Responsable) en un formato estructurado, de uso común y lectura mecánica (por ejemplo, CSV o JSON), y a que sean transmitidos a otro Responsable del Tratamiento sin impedimento por parte de Fintesk, siempre que el tratamiento se base en el consentimiento o en la ejecución de un contrato."]
       }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
         children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Derecho a oponerse:"
-        }), " tiene derecho a oponerse al uso de su información en determinadas circunstancias, como el uso de su información personal para marketing."]
-      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
-        children: [(0,jsx_runtime.jsx)(_components.strong, {
-          children: "Derecho a quejarse:"
-        }), " tiene derecho a presentar una queja ante la autoridad supervisora correspondiente si tiene alguna queja sobre la forma en que recopilamos, usamos o compartimos su información. Es posible que este derecho no esté disponible para usted si no existe una autoridad supervisora que se ocupe de la protección de datos en su país."]
+          children: "Bloqueo:"
+        }), " Usted tiene derecho a solicitar la suspensión temporal del tratamiento de sus Datos Personales cuando impugne la exactitud de los mismos, el tratamiento sea ilícito, o Fintesk ya no los necesite para los fines del tratamiento, pero usted los requiera para la formulación, el ejercicio o la defensa de reclamos legales."]
       }), "\n"]
     }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Respetamos sus derechos de privacidad y le brindamos un acceso razonable a los Datos personales que pueda haber proporcionado a través del uso de los Servicios. Si desea acceder o modificar cualquier otro dato personal que tengamos sobre usted, o solicitar que eliminemos o transfiramos cualquier información sobre usted que hayamos obtenido de un Servicio Integrado, puede comunicarse con nosotros como se establece en la sección “Cómo contactarnos”. Si lo solicita, eliminaremos o bloquearemos cualquier referencia a usted en nuestra base de datos."
-    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
-      children: "Además:"
+      children: "Respetamos sus derechos de privacidad y le brindamos un acceso razonable a los Datos personales que pueda haber proporcionado a través del uso de los Servicios. Si desea acceder o modificar cualquier otro dato personal que tengamos sobre usted, o solicitar que eliminemos o transfiramos cualquier información sobre usted que hayamos obtenido de un Servicio Integrado, puede comunicarse con nosotros como se establece en la sección “Cómo contactarnos”. Si lo solicita, eliminaremos o bloquearemos cualquier referencia a usted en nuestra base de datos. Además:"
     }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
       children: ["\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "Puede actualizar, corregir o eliminar la información y las preferencias de su Cuenta en cualquier momento accediendo a la página de configuración de su Cuenta en el Servicio. Tenga en cuenta que si bien cualquier cambio que realice se reflejará en las bases de datos de usuarios activas al instante o dentro de un período de tiempo razonable, podemos conservar toda la información que envíe para realizar copias de seguridad, archivar, prevenir fraudes y abusos, análisis, cumplimiento de obligaciones legales o cuando creamos razonablemente que tenemos una razón legítima para hacerlo."
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
         children: "Puede negarse a compartir ciertos Datos personales con nosotros, en cuyo caso es posible que no podamos proporcionarle algunas de las características y funciones del Servicio."
       }), "\n", (0,jsx_runtime.jsx)(_components.li, {
-        children: "Información opcional: puede optar por no proporcionar información de perfil opcional, como su foto. También puede eliminar o cambiar su información de perfil opcional. Siempre puede optar por no completar los campos no obligatorios cuando envía cualquier formulario vinculado a nuestros sitios web."
+        children: "Información opcional: puede optar por no proporcionar información de perfil opcional, como su foto. También puede eliminar o cambiar su información de perfil opcional."
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "Siempre puede optar por no completar los campos no obligatorios cuando envía cualquier formulario vinculado a nuestros sitios web."
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["Usted puede ejercer en cualquier momento los derechos de Acceso, Rectificación, Cancelación o Supresión, Oposición, Portabilidad y Bloqueo respecto de sus Datos Personales (Derechos ARCO-P-B). Para ejercerlos, debe contactarnos a ", (0,jsx_runtime.jsx)(_components.a, {
+          href: "mailto:privacidad@fintesk.com",
+          children: "privacidad@fintesk.com"
+        }), " o a través de nuestra plataforma de auto-servicio."]
+      }), "\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["Usted tiene derecho a solicitar la eliminación de sus datos personales de nuestros sistemas y registros cuando el tratamiento ya no sea necesario para la finalidad original o haya revocado su consentimiento.\nEn cualquier momento, puede objetar el procesamiento de sus Datos personales, por motivos legítimos, excepto si la ley aplicable permite lo contrario. Si cree que se ha infringido su derecho a la privacidad otorgado por las leyes de protección de datos aplicables, comuníquese con el responsable de protección de datos de Fintesk en ", (0,jsx_runtime.jsx)(_components.a, {
+          href: "mailto:privacidad@fintesk.com",
+          children: "privacidad@fintesk.com"
+        }), "."]
       }), "\n"]
-    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
-      children: ["En cualquier momento, puede objetar el procesamiento de sus Datos personales, por motivos legítimos, excepto si la ley aplicable permite lo contrario. Si cree que se ha infringido su derecho a la privacidad otorgado por las leyes de protección de datos aplicables, comuníquese con el responsable de protección de datos de Fintesk en ", (0,jsx_runtime.jsx)(_components.a, {
-        href: "mailto:privacidad@fintesk.com",
-        children: "privacidad@fintesk.com"
-      }), "."]
     }), "\n", (0,jsx_runtime.jsx)(_components.h3, {
       id: "102-información-de-navegación",
       children: (0,jsx_runtime.jsx)(_components.strong, {
@@ -729,16 +724,12 @@ function _createMdxContent(props) {
         children: "13. Cómo contactarnos"
       })
     }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
-      children: ["Comuníquese con nosotros si tiene preguntas o comentarios sobre este Aviso, sus Datos personales, nuestras prácticas de uso y divulgación o sus opciones de consentimiento por correo electrónico a ", (0,jsx_runtime.jsx)(_components.strong, {
-        children: (0,jsx_runtime.jsx)(_components.a, {
-          href: "mailto:privacidad@fintesk.com",
-          children: "privacidad@fintesk.com"
-        })
-      }), ". Si tiene alguna inquietud o queja sobre este Aviso o sus Datos personales, puede comunicarse con el Oficial de Protección de Datos (dpo) de Fintesk por correo electrónico a ", (0,jsx_runtime.jsx)(_components.strong, {
-        children: (0,jsx_runtime.jsx)(_components.a, {
-          href: "mailto:privacidad@fintesk.com",
-          children: "privacidad@fintesk.com"
-        })
+      children: ["Comuníquese con nosotros si tiene preguntas o comentarios sobre este Aviso, sus Datos personales, nuestras prácticas de uso y divulgación o sus opciones de consentimiento por correo electrónico a ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "mailto:privacidad@fintesk.com",
+        children: "privacidad@fintesk.com"
+      }), ". Si tiene alguna inquietud o queja sobre este Aviso o sus Datos personales, puede comunicarse con el Oficial de Protección de Datos (dpo) de Fintesk por correo electrónico a ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "mailto:privacidad@fintesk.com",
+        children: "privacidad@fintesk.com"
       }), "."]
     })]
   });
