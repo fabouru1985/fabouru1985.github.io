@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["5614"], {
+54255: (function (module) {
+module.exports = JSON.parse('{"categoryGeneratedIndex":{"title":"Getting Started","description":"...","slug":"/category/getting-started","permalink":"/category/getting-started","sidebar":"tutorialSidebar","navigation":{"previous":{"title":"Knowledge Base","permalink":"/category/knowledge-base"},"next":{"title":"Fintesk glossary","permalink":"/kb/getting-started/fintesk-glossary"}}}}')
+
+}),
+
+}]);

@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_fintesk_com=self.webpackChunkdocs_fintesk_com||[]).push([[9647],{18122:(e,s,c)=>{c.r(s),c.d(s,{default:()=>d});c(96540);var r=c(34164),n=c(81082),t=c(204),u=c(22831),a=c(84515),o=c(74848);function d(e){return(0,o.jsx)(n.e3,{className:(0,r.A)(t.G.wrapper.docsPages),children:(0,o.jsx)(a.A,{children:(0,u.v)(e.route.routes)})})}}}]);

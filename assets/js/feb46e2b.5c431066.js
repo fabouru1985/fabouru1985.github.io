@@ -1,0 +1,254 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["1290"], {
+34926: (function (__unused_webpack_module, __webpack_exports__, __webpack_require__) {
+// ESM COMPAT FLAG
+__webpack_require__.r(__webpack_exports__);
+
+// EXPORTS
+__webpack_require__.d(__webpack_exports__, {
+  metadata: () => (/* reexport */ site_docs_billing_billing_information_what_happens_to_my_billing_when_i_change_my_billing_frequency_md_feb_namespaceObject),
+  "default": () => (/* binding */ MDXContent),
+  frontMatter: () => (/* binding */ frontMatter),
+  contentTitle: () => (/* binding */ contentTitle),
+  toc: () => (/* binding */ toc),
+  assets: () => (/* binding */ assets)
+});
+
+;// CONCATENATED MODULE: ./.docusaurus/docusaurus-plugin-content-docs/default/site-docs-billing-billing-information-what-happens-to-my-billing-when-i-change-my-billing-frequency-md-feb.json
+var site_docs_billing_billing_information_what_happens_to_my_billing_when_i_change_my_billing_frequency_md_feb_namespaceObject = JSON.parse('{"id":"billing/billing-information/what-happens-to-my-billing-when-i-change-my-billing-frequency","title":"What happens to my billing when I change my billing frequency?","description":"What happens to my billing when I change my billing frequency?","source":"@site/docs/billing/billing-information/what-happens-to-my-billing-when-i-change-my-billing-frequency.md","sourceDirName":"billing/billing-information","slug":"/billing/billing-information/what-happens-to-my-billing-when-i-change-my-billing-frequency","permalink":"/billing/billing-information/what-happens-to-my-billing-when-i-change-my-billing-frequency","draft":false,"unlisted":false,"tags":[{"inline":true,"label":"Billing","permalink":"/tags/billing"},{"inline":true,"label":"Billing information","permalink":"/tags/billing-information"}],"version":"current","lastUpdatedBy":"Fabrizzio Andrioli","lastUpdatedAt":1741219200000,"sidebarPosition":4,"frontMatter":{"id":"what-happens-to-my-billing-when-i-change-my-billing-frequency","title":"What happens to my billing when I change my billing frequency?","sidebar_position":4,"tags":["Billing","Billing information"],"last_update":{"date":"2025-03-06T00:00:00.000Z","author":"Fabrizzio Andrioli"}},"sidebar":"tutorialSidebar","previous":{"title":"What happens to my billing when I change my Fintesk subscription plan?","permalink":"/billing/billing-information/what-happens-to-my-billing-when-i-change-my-fintesk-subscription-plan"},"next":{"title":"Your Fintesk subscription plan","permalink":"/category/your-fintesk-subscription-plan"}}')
+// EXTERNAL MODULE: ./node_modules/react/jsx-runtime.js
+var jsx_runtime = __webpack_require__(74848);
+// EXTERNAL MODULE: ./node_modules/@mdx-js/react/lib/index.js
+var lib = __webpack_require__(28453);
+;// CONCATENATED MODULE: ./docs/billing/billing-information/what-happens-to-my-billing-when-i-change-my-billing-frequency.md
+
+
+const frontMatter = {
+	id: 'what-happens-to-my-billing-when-i-change-my-billing-frequency',
+	title: 'What happens to my billing when I change my billing frequency?',
+	sidebar_position: 4,
+	tags: [
+		'Billing',
+		'Billing information'
+	],
+	last_update: {
+		date: new Date('2025-03-06T00:00:00.000Z'),
+		author: 'Fabrizzio Andrioli'
+	}
+};
+const contentTitle = undefined;
+
+const assets = {
+
+};
+
+
+
+const toc = [{
+  "value": "What happens to my billing when I change my billing frequency?",
+  "id": "what-happens-to-my-billing-when-i-change-my-billing-frequency",
+  "level": 2
+}, {
+  "value": "Monthly to annual",
+  "id": "monthly-to-annual",
+  "level": 2
+}, {
+  "value": "Annual to monthly",
+  "id": "annual-to-monthly",
+  "level": 2
+}];
+function _createMdxContent(props) {
+  const _components = {
+    a: "a",
+    admonition: "admonition",
+    h2: "h2",
+    hr: "hr",
+    li: "li",
+    p: "p",
+    strong: "strong",
+    ul: "ul",
+    ...(0,lib/* .useMDXComponents */.R)(),
+    ...props.components
+  };
+  return (0,jsx_runtime.jsxs)(jsx_runtime.Fragment, {
+    children: [(0,jsx_runtime.jsx)(_components.h2, {
+      id: "what-happens-to-my-billing-when-i-change-my-billing-frequency",
+      children: "What happens to my billing when I change my billing frequency?"
+    }), "\n", (0,jsx_runtime.jsx)(_components.admonition, {
+      type: "tip",
+      children: (0,jsx_runtime.jsxs)(_components.p, {
+        children: [(0,jsx_runtime.jsx)(_components.strong, {
+          children: "Note:"
+        }), " This action is only available to users with billing access set up through ", (0,jsx_runtime.jsx)(_components.a, {
+          href: "../../kb/users-and-permissions/global-user-management",
+          children: "User Management"
+        }), "."]
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["Any Fintesk user with billing access can opt to change between paying on a ", (0,jsx_runtime.jsx)(_components.a, {
+        href: "https://fintesk.com/es/precios/?utm_source=fintesk-docs",
+        children: "monthly cycle or an annual cycle"
+      }), " at any point in the billing cycle."]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "The change will take effect at the beginning of the next billing cycle. The new invoice will also be issued at the beginning of the next billing cycle when the next renewal invoice is issued."
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: "Further subscription changes made before the end of the current billing cycle may override the scheduled billing frequency change."
+    }), "\n", (0,jsx_runtime.jsx)(_components.hr, {}), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "monthly-to-annual",
+      children: "Monthly to annual"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["If you change from ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "monthly"
+      }), " to ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "annual"
+      }), " billing, the changes will take effect at the beginning of the next billing cycle."]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Example:"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["A user is on a ", (0,jsx_runtime.jsx)(_components.strong, {
+          children: "monthly billing"
+        }), " cycle renewed on January 1 and switches from monthly billing to ", (0,jsx_runtime.jsx)(_components.strong, {
+          children: "annual billing"
+        }), " on January 15."]
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "The user will be on the monthly billing cycle for the rest of the billing period and be charged for the annual billing subscription on February 1."
+      }), "\n"]
+    }), "\n", (0,jsx_runtime.jsx)(_components.hr, {}), "\n", (0,jsx_runtime.jsx)(_components.h2, {
+      id: "annual-to-monthly",
+      children: "Annual to monthly"
+    }), "\n", (0,jsx_runtime.jsxs)(_components.p, {
+      children: ["If you change from ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "annual"
+      }), " to ", (0,jsx_runtime.jsx)(_components.strong, {
+        children: "monthly"
+      }), " billing, the changes will take effect from the next renewal date."]
+    }), "\n", (0,jsx_runtime.jsx)(_components.p, {
+      children: (0,jsx_runtime.jsx)(_components.strong, {
+        children: "Example:"
+      })
+    }), "\n", (0,jsx_runtime.jsxs)(_components.ul, {
+      children: ["\n", (0,jsx_runtime.jsxs)(_components.li, {
+        children: ["A user is on an ", (0,jsx_runtime.jsx)(_components.strong, {
+          children: "annual billing"
+        }), " plan renewed on January 1 and switches to ", (0,jsx_runtime.jsx)(_components.strong, {
+          children: "monthly"
+        }), " billing on June 30."]
+      }), "\n", (0,jsx_runtime.jsx)(_components.li, {
+        children: "The user will keep the annual billing cycle with the associated discount for the rest of the billing period and be charged for the monthly billing subscription on January 1 (of the following year)."
+      }), "\n"]
+    })]
+  });
+}
+function MDXContent(props = {}) {
+  const {wrapper: MDXLayout} = {
+    ...(0,lib/* .useMDXComponents */.R)(),
+    ...props.components
+  };
+  return MDXLayout ? (0,jsx_runtime.jsx)(MDXLayout, {
+    ...props,
+    children: (0,jsx_runtime.jsx)(_createMdxContent, {
+      ...props
+    })
+  }) : _createMdxContent(props);
+}
+
+
+
+}),
+28453: (function (__unused_webpack___webpack_module__, __webpack_exports__, __webpack_require__) {
+__webpack_require__.d(__webpack_exports__, {
+  R: () => (useMDXComponents),
+  x: () => (MDXProvider)
+});
+/* import */ var react__rspack_import_0 = __webpack_require__(96540);
+/**
+ * @import {MDXComponents} from 'mdx/types.js'
+ * @import {Component, ReactElement, ReactNode} from 'react'
+ */
+
+/**
+ * @callback MergeComponents
+ *   Custom merge function.
+ * @param {Readonly<MDXComponents>} currentComponents
+ *   Current components from the context.
+ * @returns {MDXComponents}
+ *   Additional components.
+ *
+ * @typedef Props
+ *   Configuration for `MDXProvider`.
+ * @property {ReactNode | null | undefined} [children]
+ *   Children (optional).
+ * @property {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @property {boolean | null | undefined} [disableParentContext=false]
+ *   Turn off outer component context (default: `false`).
+ */
+
+
+
+/** @type {Readonly<MDXComponents>} */
+const emptyComponents = {}
+
+const MDXContext = react__rspack_import_0.createContext(emptyComponents)
+
+/**
+ * Get current components from the MDX Context.
+ *
+ * @param {Readonly<MDXComponents> | MergeComponents | null | undefined} [components]
+ *   Additional components to use or a function that creates them (optional).
+ * @returns {MDXComponents}
+ *   Current components.
+ */
+function useMDXComponents(components) {
+  const contextComponents = react__rspack_import_0.useContext(MDXContext)
+
+  // Memoize to avoid unnecessary top-level context changes
+  return react__rspack_import_0.useMemo(
+    function () {
+      // Custom merge via a function prop
+      if (typeof components === 'function') {
+        return components(contextComponents)
+      }
+
+      return {...contextComponents, ...components}
+    },
+    [contextComponents, components]
+  )
+}
+
+/**
+ * Provider for MDX context.
+ *
+ * @param {Readonly<Props>} properties
+ *   Properties.
+ * @returns {ReactElement}
+ *   Element.
+ * @satisfies {Component}
+ */
+function MDXProvider(properties) {
+  /** @type {Readonly<MDXComponents>} */
+  let allComponents
+
+  if (properties.disableParentContext) {
+    allComponents =
+      typeof properties.components === 'function'
+        ? properties.components(emptyComponents)
+        : properties.components || emptyComponents
+  } else {
+    allComponents = useMDXComponents(properties.components)
+  }
+
+  return react__rspack_import_0.createElement(
+    MDXContext.Provider,
+    {value: allComponents},
+    properties.children
+  )
+}
+
+
+}),
+
+}]);

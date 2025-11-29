@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["7300"], {
+77336: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Browser","permalink":"/es/tags/browser","allTagsPath":"/es/tags","count":3,"items":[{"id":"kb/troubleshooting/how-do-i-open-my-browser-console","title":"¿Cómo abro la consola de mi navegador?","description":"Nota: Para que nuestro equipo solucione los problemas de manera efectiva, asegúrese de que la captura de pantalla sea de la página completa y que se muestren todos los mensajes de error.","permalink":"/es/kb/troubleshooting/how-do-i-open-my-browser-console"},{"id":"kb/troubleshooting/how-do-i-clear-my-browser-s-cache-and-cookies","title":"¿Cómo limpiar el caché y las cookies de mi navegador?","description":"Si está viendo problemas generales de rendimiento en su cuenta de Fintesk, puede ser una buena idea borrar el caché y las cookies de su navegador como el primer paso de solución de problemas.","permalink":"/es/kb/troubleshooting/how-do-i-clear-my-browser-s-cache-and-cookies"},{"id":"kb/troubleshooting/which-browser-is-best-for-fintesk","title":"¿Qué navegador es mejor para Fintesk?","description":"Google Chrome y Edge proporcionarán las mejores experiencias al usar Fintesk. Recomendamos mantenerse alejados de los navegadores predeterminados comunes, como Internet Explorer y Safari, ya que pueden causar problemas de rendimiento.","permalink":"/es/kb/troubleshooting/which-browser-is-best-for-fintesk"}],"unlisted":false}}')
+
+}),
+
+}]);

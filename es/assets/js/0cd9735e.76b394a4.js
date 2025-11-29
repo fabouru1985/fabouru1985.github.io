@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["7278"], {
+16596: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Filtering","permalink":"/es/tags/filtering","allTagsPath":"/es/tags","count":2,"items":[{"id":"kb/filtering/filtering","title":"Filtrando","description":"En Fintesk, puede usar filtros para ver datos específicos en su cuenta. Incluso puede mezclar diferentes campos de elementos dentro de un filtro para hacer uso completo de las conexiones y los campos personalizados que ha creado en Fintesk.","permalink":"/es/kb/filtering/"},{"id":"kb/filtering/filters-common-uses","title":"Filtros-> Usos comunes","description":"La herramienta de Filtrado de Fintesk ofrece una variedad de formas de ver y segmentar datos específicos en su cuenta. Aquí hay algunos ejemplos de opciones de filtro comunes que puede encontrar útiles.","permalink":"/es/kb/filtering/filters-common-uses"}],"unlisted":false}}')
+
+}),
+
+}]);

@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["1318"], {
+72406: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Detail view","permalink":"/es/tags/detail-view","allTagsPath":"/es/tags","count":4,"items":[{"id":"kb/detail-view/how-can-i-add-notes-to-a-deal-or-contact","title":"¿Cómo puedo agregar notas?","description":"Las notas son una excelente manera de agregar información adicional a la vista de detalle de sus elementos, incluidos enlaces.","permalink":"/es/kb/detail-view/how-can-i-add-notes-to-a-deal-or-contact"},{"id":"kb/detail-view/updating-items-in-the-detail-view","title":"Actualización de elementos en la vista de detalle","description":"En Fintesk, la Vista de Detalle de Negocios y los contactos contienen todos los datos relacionados con ese elemento. También tiene la capacidad de editar esta información, así como eliminar o fusionar (próximamente) los elementos.","permalink":"/es/kb/detail-view/updating-items-in-the-detail-view"},{"id":"kb/detail-view/detail-view","title":"Vista de detalle","description":"En Fintesk, la vista de detalle de un negocio, persona u organización contiene toda la información relacionada con ese elemento. Aquí puede agregar información relevante adicional, como correos electrónicos (próximamente), actividades, o notas.","permalink":"/es/kb/detail-view/"},{"id":"kb/detail-view/deal-detail-view","title":"Vista de detalle de Negocio","description":"La vista de detalle de Fintesk, Contiene toda la información relacionada con ese negocio, incluidos los correos electrónicos (próximamente), actividades, o notas.","permalink":"/es/kb/detail-view/deal-detail-view"}],"unlisted":false}}')
+
+}),
+
+}]);

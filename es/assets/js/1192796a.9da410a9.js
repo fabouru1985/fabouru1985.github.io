@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["684"], {
+67858: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Company settings","permalink":"/es/tags/company-settings","allTagsPath":"/es/tags","count":4,"items":[{"id":"kb/company-settings/how-can-i-create-a-custom-currency","title":"¿Cómo puedo crear una moneda personalizada?","description":"Fintesk se puede personalizar para usar cualquier sistema monetario de su elección, desde pesos chilenos y dólares hasta chelines tanzanos.","permalink":"/es/kb/company-settings/how-can-i-create-a-custom-currency"},{"id":"kb/personal-settings/fintesk-settings","title":"Configuración de Fintesk","description":"<!--","permalink":"/es/kb/personal-settings/fintesk-settings"},{"id":"kb/company-settings/how-can-i-enable-predefined-lost-reasons","title":"How can I enable predefined lost reasons?","description":"Como predeterminado, Fintesk opera con Razones de Perdido libre. Esto significa que cada usuario puede escribir su motivo de perdida específico de por qué el negocio en cuestión tenía que marcarse como perdido.","permalink":"/es/kb/company-settings/how-can-i-enable-predefined-lost-reasons"},{"id":"kb/company-settings/lost-reasons","title":"Razones de pérdida","description":"No importa cuán bueno sea un vendedor, algunos negocios simplemente no continuarán. Cuando esto sucede y un negocio se marca como perdido, se debe proporcionar una razón que pueda ayudarlo a comprender mejor las tendencias o circunstancias cuando se necesite mirar hacia atrás en el historial de su negocio.","permalink":"/es/kb/company-settings/lost-reasons"}],"unlisted":false}}')
+
+}),
+
+}]);

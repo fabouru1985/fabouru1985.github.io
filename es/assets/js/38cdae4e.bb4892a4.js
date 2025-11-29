@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["973"], {
+56514: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Pipelines","permalink":"/es/tags/pipelines","allTagsPath":"/es/tags","count":3,"items":[{"id":"kb/pipelines/how-can-i-add-a-stage-to-my-pipeline","title":"¿Cómo puedo agregar una etapa a mi embudo?","description":"Para agregar una nueva etapa a su embudo, haga clic en el icono lápiz junto al nombre de su embudo o pasee su cursor sobre un embudo después de abrir el menú desplegable.","permalink":"/es/kb/pipelines/how-can-i-add-a-stage-to-my-pipeline"},{"id":"kb/pipelines/how-can-i-customize-my-pipeline-stages","title":"¿Cómo puedo personalizar mis etapas de embudos?","description":"Fintesk viene con un embudo de ventas básico que describe un flujo de ventas directo. A medida que los negocios se mueven a través de estas etapas, se le da una visión general visual de dónde están sus productos o servicios en el proceso de ventas.","permalink":"/es/kb/pipelines/how-can-i-customize-my-pipeline-stages"},{"id":"kb/pipelines/how-can-i-have-multiple-pipelines","title":"¿Cómo puedo tener múltiples embudos?","description":"Para muchas compañías, hay múltiples procesos utilizados para en la finalización de una venta, por lo que puede crear múltiples embudos para sus negocios.","permalink":"/es/kb/pipelines/how-can-i-have-multiple-pipelines"}],"unlisted":false}}')
+
+}),
+
+}]);

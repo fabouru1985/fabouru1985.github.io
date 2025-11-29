@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["8651"], {
+23301: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"embudo-marketing","permalink":"/es/blog/tags/embudo-marketing","allTagsPath":"/es/blog/tags","count":3,"unlisted":false},"listMetadata":{"permalink":"/es/blog/tags/embudo-marketing","page":1,"postsPerPage":10,"totalPages":1,"totalCount":3,"blogDescription":"Blog","blogTitle":"Blog"}}')
+
+}),
+
+}]);

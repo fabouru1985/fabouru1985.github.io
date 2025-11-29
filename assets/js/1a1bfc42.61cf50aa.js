@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["6708"], {
+71889: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Filtering","permalink":"/tags/filtering","allTagsPath":"/tags","count":2,"items":[{"id":"kb/filtering/filtering","title":"Filtering","description":"In Fintesk, you can use filters to see specific data in your account. You can even mix different item fields within a filter to make full use of the connections and custom fields you’ve created in Fintesk.","permalink":"/kb/filtering/"},{"id":"kb/filtering/filters-common-uses","title":"Filters-> common uses","description":"Fintesk\'s filtering tool offers a variety of ways to see and segment specific data in your account. Here are some examples of common filter options you may find useful.","permalink":"/kb/filtering/filters-common-uses"}],"unlisted":false}}')
+
+}),
+
+}]);

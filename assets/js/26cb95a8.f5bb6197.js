@@ -1,1 +1,0 @@
-"use strict";(self.webpackChunkdocs_fintesk_com=self.webpackChunkdocs_fintesk_com||[]).push([[9717],{3357:e=>{e.exports=JSON.parse('{"tag":{"label":"Changelog","permalink":"/tags/changelog","allTagsPath":"/tags","count":1,"items":[{"id":"fintesk/changelog","title":"Changelog","description":"","permalink":"/fintesk/changelog"}],"unlisted":false}}')}}]);

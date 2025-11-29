@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["3307"], {
+24182: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Browser","permalink":"/tags/browser","allTagsPath":"/tags","count":3,"items":[{"id":"kb/troubleshooting/how-do-i-clear-my-browser-s-cache-and-cookies","title":"How do I clear my browser\'s cache and cookies?","description":"If you are seeing general performance issues in your Fintesk account, it may be a good idea to clear your browser’s cache and cookies as the first troubleshooting step.","permalink":"/kb/troubleshooting/how-do-i-clear-my-browser-s-cache-and-cookies"},{"id":"kb/troubleshooting/how-do-i-open-my-browser-console","title":"How do I open my browser console?","description":"Note: In order for our team to troubleshoot effectively, please make sure the screenshot is of the full page and that all error messages are displayed.","permalink":"/kb/troubleshooting/how-do-i-open-my-browser-console"},{"id":"kb/troubleshooting/which-browser-is-best-for-fintesk","title":"Which browser is best for Fintesk?","description":"Google Chrome and Edge will provide the best experiences when using Fintesk. We recommend staying away from common default browsers, such as Internet Explorer and Safari, as they may cause performance issues.","permalink":"/kb/troubleshooting/which-browser-is-best-for-fintesk"}],"unlisted":false}}')
+
+}),
+
+}]);

@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["8840"], {
+7187: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Pipelines","permalink":"/tags/pipelines","allTagsPath":"/tags","count":3,"items":[{"id":"kb/pipelines/how-can-i-add-a-stage-to-my-pipeline","title":"How can I add a stage to my pipeline?","description":"To add a new stage to your pipeline, click the pencil icon next to your pipeline’s name or hover your cursor over a pipeline after opening the dropdown.","permalink":"/kb/pipelines/how-can-i-add-a-stage-to-my-pipeline"},{"id":"kb/pipelines/how-can-i-customize-my-pipeline-stages","title":"How can I customize my pipeline stages?","description":"Fintesk comes with a basic sales pipeline that outlines a straightforward sales flow. As deals move through these stages, you’re given a visual overview of where your items are in the sales process.","permalink":"/kb/pipelines/how-can-i-customize-my-pipeline-stages"},{"id":"kb/pipelines/how-can-i-have-multiple-pipelines","title":"How can I have multiple pipelines?","description":"For many companies, there are multiple processes used for sales completion, which is why you can create multiple pipelines for your deals.","permalink":"/kb/pipelines/how-can-i-have-multiple-pipelines"}],"unlisted":false}}')
+
+}),
+
+}]);

@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["9310"], {
+12259: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Contacts","permalink":"/es/tags/contacts","allTagsPath":"/es/tags","count":4,"items":[{"id":"kb/contacts/how-can-i-add-related-persons-or-organizations-to-a-deal","title":"¿Cómo puedo agregar personas u organizaciones relacionadas a un negocio?","description":"Por defecto, los negocios solo pueden tener una persona u organización vinculada. Sin embargo, si desea asociar contactos adicionales con un negocio, puede hacerlo usando Campos personalizados.","permalink":"/es/kb/contacts/how-can-i-add-related-persons-or-organizations-to-a-deal"},{"id":"kb/contacts/contacts-persons-and-organizations","title":"Contactos-> Personas y organizaciones","description":"Los contactos son las personas u organizaciones a las que vende (usando Fintesk), y están involucrados en todos sus negocios.","permalink":"/es/kb/contacts/contacts-persons-and-organizations"},{"id":"kb/contacts/linking-persons-and-organizations","title":"Vinculación de personas y organizaciones","description":"Vincular una organización con una persona","permalink":"/es/kb/contacts/linking-persons-and-organizations"},{"id":"kb/contacts/contact-detail-view","title":"Vista de detalles de contacto","description":"Al igual que la Vista de detalle del negocio, su vista de detalle de contacto contiene convenientemente todos los datos relevantes para su persona u organización en un solo lugar.","permalink":"/es/kb/contacts/contact-detail-view"}],"unlisted":false}}')
+
+}),
+
+}]);

@@ -1,0 +1,8 @@
+"use strict";
+(self["webpackChunkdocs_fintesk_com"] = self["webpackChunkdocs_fintesk_com"] || []).push([["6802"], {
+80649: (function (module) {
+module.exports = JSON.parse('{"tag":{"label":"Personal settings","permalink":"/es/tags/personal-settings","allTagsPath":"/es/tags","count":4,"items":[{"id":"kb/personal-settings/how-can-i-change-or-reset-my-password","title":"¿Cómo puedo cambiar o restablecer mi contraseña?","description":"Para cambiar su contraseña de Fintesk","permalink":"/es/kb/personal-settings/how-can-i-change-or-reset-my-password"},{"id":"kb/personal-settings/how-can-i-free-up-space","title":"¿Cómo puedo limpiar mi cuenta y liberar espacio?","description":"Nota: Estas acciones solo están disponibles para usuarios administradores y usuarios regulares con los permisos correctos habilitados. El número de negocios abiertos y campos personalizados que puede agregar depende del plan en el que se encuentre.","permalink":"/es/kb/personal-settings/how-can-i-free-up-space"},{"id":"kb/personal-settings/fintesk-settings","title":"Configuración de Fintesk","description":"<!--","permalink":"/es/kb/personal-settings/fintesk-settings"},{"id":"kb/personal-settings/usage-limits-in-fintesk","title":"Límites de uso en Fintesk","description":"En Fintesk, los límites de uso se basan en el Plan que te encuentras.","permalink":"/es/kb/personal-settings/usage-limits-in-fintesk"}],"unlisted":false}}')
+
+}),
+
+}]);
